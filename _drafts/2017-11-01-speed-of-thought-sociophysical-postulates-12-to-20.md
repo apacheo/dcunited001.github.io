@@ -8,6 +8,401 @@ author:
 excerpt: ""
 ---
 
+====== Move this FB rant
+
+... ugh, here i go: I triggered my PTSD layered by protracted
+isolation after extreme with (1) Boulder and (2) the self-propagating
+#Reputation- #Sociophysical #PerfectStorm yielding #Involuntary
+#Isolation, nurtured by a handful of dementors that maintain 1-2º of
+separation while sucking the soul out of human-decency to inspire
+calculated retaliation for violating some unnamable writhing mass of
+anti-mores and anti-norms, a metastatic malignancy spewing the
+mycellium to bloom all mankind's as-yet-unconscionable enmity. in the
+name of pragmatic attainment of what must not be named and never
+understood, lest reason, mores or righteousness tarnish our bridle
+rust the bit pragma's perfunctory harness.  or known their snaking,
+tendrils homing in onto the . creeping enmity from the recursive . i
+started thinking about "memories" i have, which are all the same:
+isolated & alone, with very little in the way of new distinct/original
+memories that give me something/anything to think about besides the
+abject isolation.
+
+======
+another fb rant:
+
+Doesn't this sound crazy? it does, doesn't it! That's because it is
+#AbnormalSociology. People don't normally waste their spare time
+thinking about how to shut a loathesome person out and eradicate that
+detestable existence's #SocialMemory... Which is one of the few things
+i dependably comfort myself with: people have just been too busy with
+their own lives to bother with team sociopathy. why would they
+prioritize handling me?
+
+yet, over the past three years, who is left to pick up the pieces of
+my life? me. and i know i've contributed to my own problems and
+shirked on providing my own solutions, but poverty (financial &
+social) leaves you with no options and makes you #PREDICTABLE.
+
+i'm really not upset right now. i just get frustrated thinking about
+the games that some people play to keep me #DISCONNECTED. it's mostly
+that they don't want to be made uncomfortable by what i say. because
+no one has real answers -- other than the admittedly well-advised
+platitudes to avoid focusing on the sources of pain/disconnection/etc.
+
+however, after what happened to me two days before Christmas in 2017,
+it is #Irresponsible for me to seek less information regarding
+potential threats to my #Liberty and #PeaceOfMind.  **understanding
+how much effort that a small group of people really did put into
+evoking circumstances which CERTAINLY would have tormented me for
+YEARS: it greatly troubles me** I was the victim and no one ever
+acknowleded ANYTHING that i went through -- probably because:
+
+(1) it would be #Inconvenient for them to admit anything and (2) if I
+am so socially isolated, which the people who targeted me depended on,
+then **there are NO CONSEQUENCES because information related to my
+life might as well get sucked into a black hole inside another damn
+black hole.**
+
+I'm not so concerned about punishing the people who knowingly
+victimized someone they believed to be vulnerable because i KNOW that
+the people involved have varying levels of cognizance and that some of
+them do not deserve to get dragged down towards #DavidConner's own
+personal #NinthLevel of #DanteInferno (see the section on Dante's)
+
+
+======
+yet another FB rant:
+
+some questions don't have answers; some questions shouldn't be asked;
+sometimes there's things that happen for which there is neither
+resolution nor restitution...
+
+but sometimes you wake up to a terrible curse that has haunted you for
+a decade, sucking your soul like #Azkaban #Dementors and pushing you
+further into isolation/vulnerability... and the cause of this perfect
+storm of social exclusion? no one can say, really. the only cause is
+social information that's spread into the wild and, although this
+information is incorporeal, a handful of people amplified its spectral
+content, so it would mutate into a self-perpetuating, sociophysical
+solitary confinement unit. almost no one appears to influence it
+... and if they did, who would know?
+
+my social boundary is constricted to minimize my connection to the
+outside world. there's no one with enough information about my life to
+understand what i've been through. it just so happens that 99.99% of
+people i meet will almost soon thereafter consume self-replicating
+information about my life, which drastically alters any
+decisions/actions that involve me.
+
+that's why this dark cloud that's followed me around has so
+effectively shut me out. it's a perfect storm of the average person's
+well-intentioned reactions to an abundance of social information about
+me -- over which i have no control. since my social boundary is so
+constricted, i also have no opportunities to influence the social
+memory about my identity in any meaningful way.
+
+To me, that is the definition of #SocialPoverty. Now mix in literal
+financial poverty -- i made less than $2,000 in 2015 -- and such an
+isolated person is now completely predictable because they have no
+options in life. The social & financial poverty cause someone like me
+to trust people they should not, since i don't have options and i
+can't afford to silo myself any further. Mix untrustworthy, predatory
+people with predictable vulnerability who have no options and
+someone's going to get used.
+
+Despite all this, I don't want to squelch out any remaining hope or
+optimism that at some point, I might find myself freely living in the
+same kind of life that everyone is supposed to experience. one that is
+normal. one where your character matters. one where your actions
+matter. one where people are rewarded for doing good and punished for
+not standing against evil. one where a small handful of people can't
+defame someone into a social hole so deep that by the time person
+crawls out, everyone they grew up with has already had their midlife
+crisis while that unfortunate social pauper is still piecing together
+the baseline experiences required complete post-adolescent &
+early-adult psychological development -- all while people criticize
+this person for being "try hard" and "not adulting good"
+
+
+======
+
+- philosophical problem of provability of hypotheses when methods are
+  far, far beyond computable. application of the scientific method to
+  data science may have limited viable methods to prove or reasonably
+  establish the validity of phenomena/dynamics. data scientists must
+  be creative in how they approach methodology capable of
+  demonstrating hypotheses in specific domains that generalize well.
+  - if there are limited practical methods for attaining consistency
+    across domains/datasets, then it's difficult to developing
+    confidence/consensus in wider generalizations. this is a major
+    problem in social physics, where people seeking consensus within a
+    social system themselves balance computability/simplicity with
+    granularity of inferences about belief/state of groups in social
+    systems.
+    - reasoning in detail about beliefs, especially those of (the state
+      of common knowledge,
+
+
+#### How causality is impacted by beliefs, disposition and general consciousness
+
+- (this may be good to move to an intro, possibly for SoT p3 or p4)
+  - if so, focus on specific problems related to propagating knowledge
+    and experience required to cultivate qualities of consciousness in
+    subsequent generations, (leaving us blind to the effects of (the
+    unperceived), our limits of conception and homogenous/constrained
+    experience)
+- people in sociophysical systems need to make inferences about
+  causality. 21st century technology is profoundly expanding the
+  potential circuit flows of information and resources. (ablation of
+  causality)
+  - the ephemeral structures that we reason upon contain abstractions
+    with elements both discrete and continuous; both deterministic and
+    unpredictably asynchronous (or stochastic)
+  - to operate consciously in a sea of sifting social games where the
+    exception is structure
+    - at tabula rasa, when we first open our eyes to society, our
+      minds are raised devoid of information; our consumption of it
+      bounded by what our minds can possibly consume, but again by
+      what our or (predecessors) yield to us.
+    - instead of tending to empower the next generation, they choose
+      to slowly titrate into society knowledge that unchains us from
+      ignorance: the proverbial sextant and compass of social
+      physics; the knowledge that enables us to see clearly life and
+      society's relationship with metaphysics.
+  - when do we begin to tune our sails in life and why do we so
+    optimistically retune them for decades before we realize: we were
+    born with nothing, raised only with what we're given and never
+    expected to understand how or why our psyche (awakened) to its
+    initial direction.
+
+    - ... (segue) we aren't forever bound by viral the informational
+      footprints of the (mistakes)
+      - in this tabula rasa state, the preexisting social distribution
+        of information implicitly filters the our local social graph's
+        information spectrum. though in the modern era seemingly all
+        branches of knowledge pervade human society, our minds remain
+        as germinated seeds that (fail to take root. teaching the
+        tools that expand consciousness -- especially those that
+        expand an individual's general social consciousness -- is
+        not encouraged and occasionally persecuted.
+        - "ergo cogito sum." I think therefore I am.
+        - To be self-aware is to have a degree of consciousness. To
+          self-awaken again and again, is to broaden your awareness
+          ... (finish this)
+    - (reword) we start at minimally conscious in a world that seems
+      to curtail early and unchecked expansion of the conscious mind,
+      in the psychological sense of widening awareness of the signals
+      at lower levels of the mind and first apprehending impacts of
+      unconscious impacting the mind.
+      - towards filtering, focusing and guiding people, crafting
+        mechanisms to harness unconscious influences is exceedingly
+        effective. until the mind expands the types of social signals
+        it processes, unconscious forces behave as UV light, which
+        produces intense blue light, but only upon flourescence a
+        secondary effect.
+        - this inherently convolutes the perception of causality when
+          (social) control mechanisms prioritize unconscious to
+          mediate their effects.
+      - as for the metaphysics of the unconcious and the abstractions
+        accumulated to model its invisible impacts, with respect to
+        individuals or groups, their enigmatic structure share more
+        than a resemblence to the ineffibly nuanced structures of the
+        uncountably infinite. this connection gives them a certain
+        lack of knowable form.
+      - some members of society are (far more conscious) than others
+        and its clearly possible for some to abstract, apprehend and
+        predict the impact of the unconscious.
+        - to this end, it is necessary to develop awareness of general
+          levels and qualities of consciousness for individuals and
+          groups. thus, this requires becoming conscious of
+          limitations to conscious processing of others.
+  - connect:
+    - how the distribution of consciousness and individuals
+      proficiency for testing for consciousness/cognizance creates a
+      general dynamic where a highly conscious person that is well
+      connected, can (invisibly) influence the lives of less conscious
+      people in their social network, should they choose to. the
+      causal impact of these actions is almost completely unknown to
+      those experiencing disruptive effects.
+    - obviously, that's only possible if the dominant person has
+      connections/resources/etc
+
+  - in summary, why should we be damned from birth to be controlled by
+    forces we can't understand because people around us wanted us to
+    be unconscious to such useful/undetectable/untracable vectors.
+    - is it wrong to desparately want to understand life, so you can
+      protect yourself from forces no one helped you understand?
+    - is it so wrong to want to help people escape this gravity that
+      binds us down to delicately crush our spirit, having sucked the
+      color from our dreams, to render subjugated those who broke
+      early while consuming the rest.
+
+
+### Harness inherent computational potential by leveraging sociophysical networks
+
+- specific example: could organized gambling's potential to informally
+  quantity belief and, critically, trace paths/influence through
+  social networks be leveraged as a giant sociophysical computer?
+  - this is computation occuring purely in socially networked wetware
+  - if you identify how people change their position(s) as information
+    titrates/diffuses through social netwoks, then -- because the
+    highly recognizable signatures of novel information that
+    distinguish specific novel datums from frequently propagated
+    datums -- you could theoretically derive, informally, the capacity
+    for inference, propagation and novelty
+    - by leveraging as a protocol, natural human behaviors predicated
+      upon some claim(s) on beliefs
+    - focus on the level of control required for any assumptions
+  - as a late-19th century sicilian mobster, can you try to compute
+    some piece of information by leveraging your gambling network?
+  - gambling on 2016 election
+    - spreads and other constructions of gambling scenarios; how this
+      correlates into more information.
+
+- this is essentially leveraging a social network as a [prediction
+  market](https://en.wikipedia.org/wiki/Prediction_market) with
+  emphasis on interacting with the network to compartmentalize the
+  distribution of information as to maximize the network's ability to
+  compute & predict
+- connect to [darknet market
+  gambling/speculation](https://motherboard.vice.com/en_us/article/gy35mx/ethereum-assassination-market-augur)
+  on Augur, blockchain for prediction markets
+  article
+  - also, [Forbe's
+    Article](https://www.forbes.com/sites/oliversmith/2018/07/31/crypto-gambling-leaves-regulators-in-the-dark-as-blockchain-bets-are-placed-on-trumps-murder/#16e636ef725c)
+
+
+
+### Repurposing natural biological systems as vehicles for biophysical computation
+
+- this has a fascinating intersection with the Gaia Hypothesis
+- Could natural biological systems, holding to particular assumptions
+  and under careful controls, be repurposed as frameworks for
+  computation that receive analytic informational representations of
+  numerical/analytical systems?
+  - this could, say, allow some biophysical system to produce learning
+    algorithms
+    - ... and isn't that exactly what evolution produced?
+      - the internalization of external form via sensory compelling
+        individual yet interconnected biophysical systems to
+        compartmentalized forms perfracted throughout their
+        environment.
+  - if humanity were to then emulate this process, it would merely be
+    intelligent life creating what would be at first semiintelligent
+    life.
+    - are specific examples where ancient cultures produced systems
+      using artificial configurations of natural biophysical systems
+      that were capable of detecting events?
+- for learning to occur in spatially confined 3D structures, the
+  higher-order structures must network and interconnect themselves
+
+### Systemic Macroeconomic Impact of Actuarial Sciences on Individual Industries?
+
+- similar to understading the impact of forex dynamics on
+  macroeconomics of local/regional economies, how do insurance
+  products and the inevitability of insurance offerings for product
+  types and industry types both affect those products/industries?
+  - can some generalities be extracted to understand how insurance
+    products might affect any product or industry, given the
+    supply/demand/pricing/etc dynamics of that industry?
+  - again, similar to forex, insurance products tend to cause
+    large-scale macroscopic distortions of
+    corporate/economic/financial systems that relate to any given
+    product/service/industry?
+    - who do insurance products tend to benefit? The product
+      providers? consumers? actuaries?
+    - Generally insurance products mitigate risk or assuage the
+      concerns of those who believe they are at risk.
+    - when do insurance products become profitable enough to be
+      financially plausible? this depends on the specific
+      product/service at hand and the confidence in the actuarial
+      methods of data backing insurance products.
+
+### Religious Institutions and Sociophysical Consensus
+
+- TODO: decide which section of SoT-postulates-12-20 this belongs in
+  - if not in the next section on "metrics and equilibrium"
+- for religious institutions in medieval Europe, the near-universality
+  of attendance allowed for efficient local propagation of
+  communication, yielding near-total 1&deg; "coverage" of the local
+  social network (connect to sheafs)
+  - this leads to weekly information distribution ("bidirectional")
+    with rhythm & guaranteed total coverage, for high-priority
+    communications.
+    - this reduces apparent uncertainty of receipt of critical
+      information (for high-priority comms, no need to receive an ack
+      to undertstand that if the message was critical it was
+      disseminated, esp. if it was delivered from the pulpit)
+      - or if the information had viral components
+
+- congregations still facilitate similar functions (for regular
+  attendees) but without most of the same guarantees of communication
+  distribution.
+  - this is one way that religious institutions have been capable of
+    (serving) the underserved: information about people, their
+    accomplishments and their hardships, is diffused into the
+    community by traditionalizing regular congregation of a community
+  - so even if someone is "sociophysically poor" then they have
+    regular (access) to groups of people (and simple expectations can
+    be made about when people are going to be together)
+    - and critically, these people adhere to a belief system
+      accompanied by a (well-recognized) system of morals/ethics
+    - information is diffused related to people's needs.
+      - (asking people to pray for those in need, etc)
+
+- to summarize
+  - regularity of ritualistic social interactions, where expectations
+    can be made about coverage of the social graph
+  - consensus to the degree that it's practical to make expectations
+    about consensus
+  - by adhering to a belief system, religious institutions hook into a
+    framework that provide conduits for social consensus. whether this
+    is intended or not, it works and provides massive benefits for
+    communities.
+    - but also, the influence conferred by these social conduits is
+      managed by those seen by the community to have moral authority
+      - as long as the followers adhere to rules established by the
+        belief system, then those who preside over these regular
+        congregations must be exemplary in their adherence to the
+        belief system
+        - and demonstrate value/accomplishments towards growth
+        - while also being teachers (...)
+
+### Notes on Intro
+
+- intro two this part with discussion on
+  - (no, move this to a separate article)
+
+- TODO: move the section on configurational entropy to be first (as
+  long as order is consistent)
+
+### The Pecking Order
+
+"Because that's what life is about. Not true substance or even knowing
+what true substance is, but hoping that there's enough people around
+you who can't recognize substance that they assume you're better by
+comparison when you loudly assert your dominance."
+
+- "Stirring the pot" as sociophysical perturbation
+
+- the singularity as sociophysical transfiguration
+
+- thesaurus
+  - gorgonize
+  - nocent
+  - [ilmestys](https://en.wiktionary.org/wiki/ilmestys#Finnish) (finnish)
+
+- edits: use language established in part one & part two
+
+- TODO: part one:
+  - TODO: update sources in the first part
+  - TODO: finish conclusion paragraph
+
+- sociophysical telemetry
+  - in networking telemetry is like `show cdp neighbors` for cisco
+    routers. also, there are many other telemetric protocols and
+    methods.
+
 - macrame/ta'veryn connection (the wheel of time: the web is like the
   series of possibilities and it's shape is similar to that of
   high-dimensional convergent knots)
@@ -15,6 +410,28 @@ excerpt: ""
 - [Nonlinear dimensionality reduction for faster kernel methods in
   machine
   learning](https://www.youtube.com/watch?time_continue=121&v=ULFzxq0u_mI)
+
+
+### elasticity of social distribution of belief.
+
+- so, for any substrate through which solvents/solutes diffuse, the
+  phenomenon of elasticity emerges, which describes the capacity for
+  absorption/expansion/diffusion/etc
+  - need more descriptive details here
+- however, if you view social particles as a substrate with a
+  capacity/bandwidth for information absoption, then the phenomenon of
+  belief diffusion, absorption and propagation should exhibit some
+  qualities of elasticity.
+  - this is particularly relevant when there are adversarial belief
+    systems, where powerful people try to disrupt the belief systems
+    of others while trying to protect/propagate their own
+
+- "mythical search/quest for free will"
+  - the archetype of a quest where a hero searches for freedom from
+    overarching circumstances that dictate the lives of pretty much
+    everyone in the world. except, here, the hero is searching for a
+    sourch of true free will, or escape from domination by
+    external factors.
 
 
 #### Multiplicity of Karmic Consequences
@@ -49,21 +466,25 @@ excerpt: ""
   series is effectively a post-doctoral masterpiece on methodological
   alchemy.
 
-- TODO: add <span id="fdsa-note"></span> to create a bootstrap label
-  in <p> tags that can fold/unfold a quote/note below
+### (impact of geography on population movement, its distribution and commerce
 
-- thesaurus
-  - gorgonize
-  - nocent
-  - [ilmestys](https://en.wiktionary.org/wiki/ilmestys#Finnish) (finnish)
+- sociophysical position/movement distributions rooted in regional
+  anchors (considering mostly regional movement of people in
+  bronze/iron age cultures)
+  - how more common are hot springs in Japan than in other areas of
+    the world?
+  - does this correlate to the concept's precedence/status in japanese
+    culture? how is this precedence/status related to the geography's
+    impact on culture? does the precedence result from the geographic
+    density & accessibility of mountain springs in the volcanic island
+    chains of japan?
+    - how does the distribution/availability/density/accessibility of
+      hot springs of hot springs in japan compare to the same in
+      Hawaii/Indonesia?
+      - do springs/bathhouses occupy similar precedence in these
+        cultures?
 
-- edits: use language established in part one & part two
 
-- TODO: part one:
-  - TODO: update sources in the first part
-  - TODO: finish conclusion paragraph
-
-- TODO: intro?
 
 - if the idea of God cannot be proven or can be proven false, is there
   still value for religion? (of course)
@@ -87,13 +508,21 @@ excerpt: ""
   - the construction of a network with people who have invisible
     puppet strings.
 
-- math ideas
-  - "K curve" for estimating speciation
-    - gene replication vs belief/informational replication
+
+
+### "K curve" for estimating speciation of memes
+
+- taxonomical understanding of information
+- gene replication vs belief/informational (memetic) replication
+  - move to "geometric mechanics of information"
+
+
+### Demographic Stratification
 
 - social physics &#x8855; demographic stratification of children by
   age through childhood and adolescence (used for psychological
   programming)
+
 
 - dandelion imagery
   - ancient magus anime (episode 5)
@@ -146,30 +575,13 @@ excerpt: ""
     components to stories, you can begin to get a feel for who is
     talking to who.
 
-#### Just Like The Body Follows The Head...
-
-- just like the body follows the head, both the individual and the
-  social organism follow the projection of attention, in aggregate.
-  where there is aggregate attention, there will be motion towards and
-  away from the object of focus. where there is change in aggregate
-  attention, there will be change in motion and direction of motion,
-  towards and away from the spatially distributed changes.
-  - this applies to abstract notions of space, location, direction,
-    and motion. to understand this, think about how you might measure
-    attention on social networks and imagine what the notion of a
-    space means for social networks.
-  - explain the sociophysical differences between "Attention" and
-    "Parade Rest" as an example to demonstrate how you should follow
-    the logical, higher-order direction of focus instead of simply
-    gauging someone's head/eye orientation
-
 #### The Prototypical Thought Experiment for S/Phys (w/ both Phys+Virtual)
 
 - Your target uses Google Maps. You know the address they searched &
   entered. You know they are en route now and can monitor their
   current position, along with the time remaining.
-- you need to filter your social graph to the set of people various
-  conjunctions of you and your target's 1&deg; and 2&deg; social
+- you need to filter your social graph to the (set of people various
+  conjunctions...?) of you and your target's 1&deg; and 2&deg; social
   neighborhoods.
   - (i.e. your mutual friends is the conjunction of your
     1&deg; neighborhoods)
@@ -178,35 +590,6 @@ excerpt: ""
   - assume you can access the real social graph, regardless of how
     your data is composed of many virtual sources)
 
-#### The Perfect (Recipe) for Cooking Eggs (a complex application of the Heat Equation)
-
-- IRL of probabilistic system with state transformations: cooking eggs
-  with and without oil
-  - this relates to the heat equation, but one who's endogenous and
-    exogenous heat characteristics are strongly warped by the chemical
-    composition
-  - thus, the heat propagation characteristics are altered by system
-    phase changes (less grease == faster rate of heat-consuming
-    reactions bc of less heat radiation absorption & diffusion with
-    grease)
-  - on a skillet, the heat is then diverted to driving a small number
-    of chemical reactions along the boundary where chemical reactions
-    are occuring
-    - because the heat is chemically consumed along phase change
-      boundaries and because the change-in-phase-change is limited
-      (convexly?) to a local region of space, then the food burns
-- think of reactions in social physics like cooking food. in the
-  presence of some ingredients, then:
-  - phase changes are either spatially contained (locally convex?)
-  - or not (phase change dynamics are locally concave and the system
-    is highly turbulent)
-  - what are the facets for convexity/concavity in driving local phase
-    change dynamics?
-  - phenomenologically, how does this translate to sociopolitical
-    games? people like cooking with grease (they like artificially
-    inducing predictable change)
-    - conversely, they like restricting change whose phase change
-      dynamics are predictable -- OR AT LEAST SEEM TO BE
 
 #### Examples of geographic chokepoints:
 
@@ -223,8 +606,8 @@ excerpt: ""
 - information flows with and against commerce/trade/movement
   - commerce/trade (& what else) flows with and against information
 
-- modeling sociophysical information dispersion and chokepoints from
-  geographic data
+### (modeling sociophysical information dispersion and chokepoints from geographic data)
+
   - this builds on some of what is mentioned in the previous section:
     - energy from the sun not only causes heat to diffuse through
       physical systems, but it is at least correlated to "heat"
@@ -266,12 +649,28 @@ excerpt: ""
 
 ### Intro(?)
 
+- write an introduction involving soccer. and connect the
+  strategy/tactics therein to the 9 remaining sociophysical postulates
+  - (all(?) (team sports) are basically social physics.)
+    - as the rules of a sport increase player count, social physics
+      begins to exhibit increasing influence on the interactions,
+      tactics and strategy
+   - but soccer is a (more complete) generalization of social physics
+     than most team sports.
+     - (briefly) contrast with lacrosse, basketball and
+     - baseball is about [developing] intuition of statistical systems
+       - esp. dependent & independent events
+   - micro and macro of social physics
+     - in tennis and racketball, there are still "micro" dynamics
+
 - mention quantum physics and coarse graining
   - explain "what" coarse graining really is and why we may be wrong
     about quantum mechanics. explain why the Ansatz and Tensor
     Networks explain these phenomena under dimensionally various
     conceptions of the problem statement
   - Connect to Simon Dedeo's video (part 1)
+
+
 
 - over the course of thousands of years, elites (needed to understand)
   social physics and statistics to rule/manage people. modern man
@@ -343,7 +742,7 @@ excerpt: ""
         through myth
 
 - natural signs/phenomena are some of the most powerful means of
-  developing an understanding of
+  developing an understanding of (...?)
   - even to someone devoid of writing, the natural world itself is
     full of information about nature. if you truly know natural
     phenomena, you need only look around and you see physics, math,
@@ -413,11 +812,14 @@ excerpt: ""
 
 #### > > > > &#8855; &#8710; &#8968;xiii&#8969; [Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. When Unattached To Sociophysical Equilibria, Our Energy Becomes Trackless, Formless and Incomprehensible To The Unconscionable.](#whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games)
 
+- Attachment of Behavior, Thoughts and Identity To Equilibria In
+  Social Games. Through detachment, individuals become trackless.
+
 - Once Labile and Unbound From Conceived Attachment, Our Energy
   Becomes Trackless, Formless and Incomprehensible To The
   Unconscionable.
 
-#### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+#### &#8855; &#8710; &#8968;xiv&#8969; > [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
 #### &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
 
@@ -434,6 +836,27 @@ excerpt: ""
 <a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
 
 #### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+
+- TODO: talk about variational inference here
+  - gradient descent & uncertainty
+
+- MOVE: spectral decomposition of task-related information-acquisition
+  dependencies in general social circumstances.
+  - (perhaps move this to the part on equilibrium)
+  - when completing some type of task, not every person approaches it
+    the same way. based on their set of knowledge, they will approach
+    completing the task with various methods. observing the set of
+    information they attempt to acquire to complete the task tells
+    you about:
+    - their set of internalized information, especially domain
+      specific information.
+    - their tendencies to need to reacquire the same types of
+      information.
+    - whether they are exhibiting compartmentalized behavior.
+  - various personality types will approach specific task types in
+    completely different ways
+
+  - i.e., the composi
 
 To anticipate flow of energies in sociophysical circuits, especially
 with n-phase oscillation and multi-energy transductions, one must
@@ -584,11 +1007,11 @@ Given a simplified model of a sociophysical or financial system
       - however, by limiting the informational range of the discussion
         and the direction or spectral content of arguments,
 
-- another overwatch point (move to different article)
-  -
+### application of a resources-oriented mindset
 
-- application of a resources-oriented mindset
-  - (is there an official name for this?)
+  - (is there an official name for the concept of resource-oriented
+    inference of intent, as it applies sociopolitically and
+    militarily)
     - explore Jominian vs. Clauswitzian mindsets with regard to this
       specifically.
       - in the jominian view, these resources are critical to the
@@ -632,8 +1055,30 @@ Given a simplified model of a sociophysical or financial system
 
 ### &#8855; &#8710; &#8968;xiii&#8969; [Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. When Unattached To Sociophysical Equilibria, Our Energy Becomes Trackless, Formless and Incomprehensible To The Unconscionable.](#whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games)
 
+- Cite Simon DeDeo's paper(s) on Wikipedia edits in reference to the
+  power law describing norms (Broken Windows in Reverse)
+
+- i'm generally referring to Energetic Equilibrium, not Nash
+  Equilibrium. but what i'm trying to describe lies somewhere in
+  between
+  - most games IRL do not exhibit perfect energetic equilibrium
+
+- How does Nash Equilibrium apply to sociophysical games which are
+  less clear/formal
+  - e.g. many games concurrently,
+  - async games,
+  - players with various values systems,
+  - players engaged in many games,
+  - players engaged in extremely few games
+    - near-total resource constraints imply lack of investment for
+      games with a concrete payoff (games where payoffs are purely
+      social or informational be easily manipulated by information,
+      but payoffs are social/informational as well and can be
+      redefined)
+
 - content from "facets: systems-theory"
   - this content is poorly outlined. where else do i have this?
+
 - this section is mostly about leveraging physics/math concepts to
   proactively provoke potential adversaries to reveal & attempt to
   conceal information, including their intent
@@ -847,7 +1292,7 @@ Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-phy
 <a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos
 
 
-#### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
 What is probabilistic programming? What are programs in chaos?
 [This article](http://te.xel.io/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html)
@@ -896,6 +1341,8 @@ Yang that pervades every sentient entity capable of agency. The only
 entity that can conceive this exists as the metaphysical totality,
 God, which does extend itself into our universe in unimaginable ways.
 
+- TODO: is it really the 2-form?
+
 #### Yin and Yang is the 2-Form of a Fractal in Two Dimensions
 
 ![Infinities of Yin and Yang](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/yin-yang-fractal.jpg)
@@ -937,9 +1384,51 @@ disintegrate.
 
 #### *Anyways ...* **Moving On.**
 
+
 <a name="each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus" />
 
 ### &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
+
+-  TODO: change the name of the section
+
+#### Just Like The Body Follows The Head...
+
+- introduce this concept using soccer
+  - the spatial projection of attention
+  - especially insofar as the ideas of valence, configuration,
+    conformation affect and are affected by the spatial projection of
+    (visual) attention.
+
+- just like the body follows the head, both the individual and the
+  social organism follow the projection of attention, in aggregate.
+  where there is aggregate attention, there will be motion towards and
+  away from the object of focus. where there is change in aggregate
+  attention, there will be change in motion and direction of motion,
+  towards and away from the spatially distributed changes.
+  - this applies to abstract notions of space, location, direction,
+    and motion. to understand this, think about how you might measure
+    attention on social networks and imagine what the notion of a
+    space means for social networks.
+  - explain the sociophysical differences between "Attention" and
+    "Parade Rest" as an example to demonstrate how you should follow
+    the logical, higher-order direction of focus instead of simply
+    gauging someone's head/eye orientation
+
+
+- chapman-kolmogorov as applied to the direction of focus/attention as
+  over time, explaining the likelihood of attention
+  - (move to a section on the spatial/informational projection of
+    attention)
+  - ADD & completion of tasks, where the imposition of dependencies in
+    those tasks requires the redirection of attention over more or
+    less distance in "attention-space"
+  - through the course of a small window of time, the more specific
+    the path through attention space is required to be, the more
+    control is required to hold the path fixed to and from those
+    dependencies. therefore, the imposition of additional dependencies
+    requiring the projection of attention in disparate directions
+    implies the need for more control over attention to mitigate the
+    higher probability of deviation from the path.
 
 In social physics, all SOF biophysical entities exist in the same
 shared physical space. Their minds are like individual boltzmann
@@ -972,7 +1461,7 @@ developed by cooperative entities? These entities are essentially
 [Boltzmann machines](https://en.wikipedia.org/wiki/Boltzmann_machine)
 with myriad arbitrary notions of temperature and sociophysical energy.
 
-![]()/
+![]()
 
 - expand on this
   - transition to discussing how we attempt to model each other's
@@ -1086,6 +1575,18 @@ what your mind is made of.
   m*c^2`
   - mention here, but dicsuss in further detail in part 3 (metrics)
 
+
+#### Informational Equilibrium Depends on The Bottleneck of Attention and the Rate of Replication
+
+- until now, almost any ideas or informational effects of causal
+  consequences, regardless of their social distribution, would
+  disappear within four generations
+  - information encoded within writing seems to be a major exception
+    to this, but writing itself is can be considered a monadic vehicle
+    for information replication. the information replicates whenever
+    it is read by someone who can interpret the meaning.
+
+
 <a name="models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies" />
 
 ### &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
@@ -1097,11 +1598,42 @@ what your mind is made of.
 ![Amphiphilic Phases](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/amphiphilic-lcd-phases.jpg)
 
 
+#### The Perfect (Recipe) for Cooking Eggs (a complex application of the Heat Equation)
+
+- IRL of probabilistic system with state transformations: cooking eggs
+  with and without oil
+  - this relates to the heat equation, but one who's endogenous and
+    exogenous heat characteristics are strongly warped by the chemical
+    composition
+  - thus, the heat propagation characteristics are altered by system
+    phase changes (less grease == faster rate of heat-consuming
+    reactions bc of less heat radiation absorption & diffusion with
+    grease)
+  - on a skillet, the heat is then diverted to driving a small number
+    of chemical reactions along the boundary where chemical reactions
+    are occuring
+    - because the heat is chemically consumed along phase change
+      boundaries and because the change-in-phase-change is limited
+      (convexly?) to a local region of space, then the food burns
+- think of reactions in social physics like cooking food. in the
+  presence of some ingredients, then:
+  - phase changes are either spatially contained (locally convex?)
+  - or not (phase change dynamics are locally concave and the system
+    is highly turbulent)
+  - what are the facets for convexity/concavity in driving local phase
+    change dynamics?
+  - phenomenologically, how does this translate to sociopolitical
+    games? people like cooking with grease (they like artificially
+    inducing predictable change)
+    - conversely, they like restricting change whose phase change
+      dynamics are predictable -- OR AT LEAST SEEM TO BE
+
 - [gibb's entropy?](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula)
 
-- for the common person to understand, they need to understand what a
-  phase change in physics actually is and, most importantly, what a
-  phase change is defined as outside of physical systems.
+- for the common person to understand (use the above example of
+  cooking eggs) they need to understand what a phase change in physics
+  actually is and, most importantly, what a phase change is defined as
+  outside of physical systems.
   - if you think of solid, liquid, gas, plasma, BEC ... what makes
     each one what it is?
     - they are composed of the same particles, mostly.
@@ -1175,6 +1707,30 @@ what your mind is made of.
 
 ### &#8855; &#8710; &#8968;xviii&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
 
+
+- measure of the sum of sociophysical flux over time, per capita
+  - measure of connectedness of geographic regions
+  - modeling geographic connectedness as a Riemannian manifold
+    - barriers to early transit of people are modeled not as
+      disconnected region of the space, but with a slow transit
+      velocity or with infinitessimal likelihood of transit
+  - once you have a well-constructed map of the old world as such a
+    Riemannian manifold, you can conduct far more accurate simulations
+    of population migrations. from here, you can begin to estimate the
+    sum of sociophysical flux through various regions.
+    - such hotspots would include:
+      - the bosporous strait and it's adjacent isthmus
+      - the mouth of the persian gulf
+      - the entrance to the silk road
+      - the strait of gibralter
+      - the middle east, generally
+    - if you can extend your model to consider the old world globally,
+      then the spots with the greatest cumulative sum of sociophysical
+      flux are all chokepoints in the middle east
+    - until more modern eras, these hotspots consisted of the most
+      valuable real estate in the world, economically and
+      geopolitically
+
 Social isolation correlates strongly with vulnerability, poverty,
 mental illness and the inability to tap into local economic
 opportunities.
@@ -1233,7 +1789,7 @@ enable the government in this regard because even the best intentions
 go horribly awry.)
 
 
-- {from article on math} furthermore, there are people who's mental
+- {from article on math} furthermore, there are people whose mental
   state is the result of their life experience, either in the past or
   because of current conditions. There are many types of individuals
   who suffer with improper diagnosis because of isolation, abusive
@@ -1297,9 +1853,10 @@ consequences in my own life.)
 
 - during and after segregation, social isolation created massive, but
   hard-to-see setbacks for the african american community. this
-  strongly limited social mobility because african americans forged a
-  disproportionately small amount of strong connections with
-  influential people with social/financial capital.
+  strongly limited social mobility because african americans were
+  denied the opportunity to forge more than a disproportionately small
+  amount of strong connections with influential people with
+  social/financial capital.
   - this is especially hard to see if you don't experience it.
   - the exact consequences of this are difficult to see or prove, but
     it means opportunities for advancement and economic well being
@@ -1339,7 +1896,10 @@ relevant or meaningful.
 
 ### &#8855; &#8710; &#8968;xix&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
-In thermodynamic, biophysical and genetic systems, patterns of change
+- soccer, valence/pairing as it relates to configurational and
+  conformational entropy
+
+In thermodynamics, biophysical and genetic systems, patterns of change
 and entropy in configurational and conformational distributions
 provide a metric measuring complex similarity metatypes of programs in
 chaos. Using this, one can dilineate genetic programs and other
@@ -1433,7 +1993,7 @@ arrangements is similarly not random.
 > This is the kind of stuff everyone learns about life by age 8. I
 > needed to resort to thermodynamics to understand.
 
-Everything reveals information, but parsing incommplete and
+Everything reveals information, but parsing incomplete and
 inschematic information is usually prohibitively complex. look for
 tightly coupled position, orientaion and change in field of view: when
 the specific configuration starkly departs from natural non-coupled
@@ -1640,6 +2200,296 @@ information.
 <a name="information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement" />
 
 ### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+
+- non-local behavior demonstrated when the state for a wikipedia page
+  edit graphs undergoes a mode-switch (DeDeo Wikipedia: see end of
+  video on "information processing & political order")
+
+- the focus here is on the idea of spatially-distributed agency, as it
+  relates to the social/physical distribution of information,
+  consensus of that information, the social perception of concensus
+  - and how various modes of signaling impact the above, especially
+    when there is some simultaneous or socially implicit consumption
+    of signals
+    - (in which case, information consensus is implicit and
+      expectations of deviation from that consensus require
+      justification/explanation)
+
+#### Socioepistemic Structures: Distribution, Consensus, Amplication (of?,) Causal Minutia and Impact on Social Circuits
+
+- the projection of epistemic structures into society (esp logistic)
+  - distributed programs and social physics
+  - amplication of information (X) confidence in the current/future
+    consensus of information.
+    - when we know that information has been distributed, it changes
+      our actions
+    - if information hasn't been distributed yet, but it likely will
+      be, it will affect our current actions
+
+#### Justifying "Disnormalization"
+
+- in the context of denormalization, in a philosophical, legal or
+  ethical sense, should be understood to regard a single norm, where
+  as disnormalization should refer to system dynamics extending to
+  groups of norms or norms generally without any well-defined set. in
+  the informational context, denormalization usually refers to
+  compacting data, but after normalization, the entire system has
+  changed both the schema and the instances of data.
+  - Of the normative dynamics arising in statistical systems,
+    including those that employ logic predicated upon norms and their
+    resulting aggregate beliefs, while they do also result in altering
+    informational schemata, these changes are ultimately arbitrary in
+    comparison to the more macroscopic effects on the system's
+    behavior. The observer chooses how to model the system as well as
+    the agents if the system allows it; ultimately, even numeric
+    systems have myriad potential representations for information
+    within them.
+    - Instead, normative dynamics in statistical systems can result in
+      phase changes and other large-scale effects across various
+      topological structures in the system. We all see that people
+      inform their actions with their beliefs about facts, not the
+      singular facts themselves. In economic games with social agents,
+      incentivization structures can be compelled to change by
+      externalities with finite quantities -- e.g. maximum debt
+      ceiling, limited commidities, non-renewable resources. as
+      external factors reach their limits, the beliefs of agents
+      change: suddenly the realities of economic circumstances impose
+      themselves on the economy, resulting in the failure of existing
+      incentivization structures, like wages and dividends from mines
+      of exhausted ore. Approaching this and certainly afterwards, the
+      beliefs of agents change as do beliefs about statistical
+      expectations and the resulting beliefs about normal response to
+      a lack of opportunity. Thus, the system as a whole undergoes a
+      phase change: the agents must assess their models of the system
+      while seeking consensus of information related to new
+      opportunities and anticipated aggregate social dynamics. This
+      causes major shifts in valuation of distributions, resulting in
+      some event types with infinitesimal value becoming new norms and
+      formerly common norms are rapidly dampened. Combined with the
+      sometimes paradoxical behavior of statistical systems with
+      varying levels of interdependence, where probabilities of
+      sequences of events are products and sums of products, this
+      implies that rapid amplication and deamplification of
+      distributions
+
+
+
+  whereas thesdynamics cause macroscopic changes that are that are
+  ultimately ar these dynamics result in macroscopic changes to the
+  system where specific schema of information are fairly arbitrary
+
+> But linguists operate with a non- normalized view. Mappings between
+> semantic actants and grammatical relations do not fit actant fields
+> uniquely. Lexical correlates and examples are poly- valent, hence
+> denormalized. [paper](http://www.aclweb.org/anthology/P84-1010)
+
+- where denormalization is to disnormalization as deregulation is to
+  disregulation, (via greek-derived dys- ?)
+  - see dysphoric, dysregulated
+  - see dyslogistic/eulogistic
+  - dys is primarily associated with medical/neurological terminology,
+    but i see no reason as to why that should not apply to
+    disregulation of norms in society if the left wants to make
+    arguments in favor of social engineering to treat "social illness"
+
+- abnormal, unnormalize, renormalize, hypernormalisation
+
+
+
+#### What Fragile is to Anti-Fragile, the Concept of Disnormatizability is to Normitization
+
+
+- Disnormatization, the dissociation and disregulation of norms as it
+  relates to a spectrally derived total measure of normatization, and
+  the vectors with potential to denormalize contribute greatly to the
+  (determinizability) of statistical systems....
+  - Here, in the context of socioepistemic systems where agents inform
+    their actions with incomputably large sets of available, this
+    concept is convoluted by norms of mutual knowledge and beliefs
+    about knowledge of .
+
+in what
+are discussed here as socioepistemic systems,
+
+Disnormative: Oxford doesn't include it in their dictionary, but it is
+still a valid word in the english Language. not enough fancy
+post-graduate researchers have thought to use it. too many NPC's and
+not enough people who think for themselves to understand that word
+yet.
+
+In addition to philosophy surrounding norms, there are branches of
+logic -- #FuzzyLogic, #DeonticLogic, [Subjective
+Logic](https://en.wikipedia.org/wiki/Subjective_logic) and others --
+which allow you to validate the reasonableness of statements about
+systems where the agents have mutual belief and inform their actions
+with belief about norms.
+
+An example, what is implied the "normative" reference in the
+following? "[Deontological
+Ethics](https://en.wikipedia.org/wiki/Subjective_logic) is the
+normative ethical theory that the morality of an action should be
+based on whether that action itself is right or wrong under a series
+of rules, rather than based on the consequences of the action."
+
+It means a rules-based ethical framework has the capacity to exert
+normative influence on the agents in its system.
+
+So what is a #Disnormative component of a system? It's a component
+that destabilizes norms or beliefs about norms. Like the word
+#Perfracted -- referring a phenomenon in similar to refraction, but
+occurs system-wide and, in #ChaosTheory, is independent of time and
+space -- Disnormative is an example of a #Protologism. For now, it's a
+#HapaxLegomenon -- a word only used once in an author's writings or,
+less precisely, a rarely used neologism. That's how words are born. An
+author who introduces protologisms that map to ideas which need
+discussion that don't yet have a morpheme pointing to them is perhaps
+an author with fresh ideas.
+
+Disnormative is a concept which captures the impact technology has on
+culture, but does so with clarity when considering individual norms
+distributed throughout society. We are rapidly destabilizing almost
+all cultural and interpersonal norms.
+
+#### Dis/normative Influences alter the Degree of Entanglement in Sociophysical Systems
+
+- There are measures of entangledness of analytical representations in
+  representational-learning systems that correspond to measures of
+  consensus of both mutual knowledge and aggregate beliefs about
+  mutual knowledge which correspond to the relative normitization of
+  the information systems of agents and groups. How sparse and diverse
+  are the structures of mutual knowledge and aggregate beliefs about
+  it? There are normative and disnormative behaviors which affect the
+  harmonics of interagent interactions and socioepistemic beliefs in
+  social systems. Are there strongly pronounced norms and beliefs
+  about them? Then, for agents within the system, models are generally
+  more effective and the epistemic representations for those models
+  are more tightly structured, requiring less information to represent
+  and are more efficiently harmonized.
+  - Well-understood mechanisms for incentivization and well-structured
+    policies projected by social institutions with the resources to
+    enforce them are effective types of normative phenomena.
+  - These pull the system into harmony, whereas social system whose
+    harmonics are ablated towards socioepistemic noise are more less
+    entangled.
+  - These disnormatized systems more difficult to predict where the
+    actions of agents depend on resolution of information about
+    actions by elsewhere in the system, which cannot predicate
+    reactions until such information has propagated to an agent, if
+    that may occur at all.
+
+  - Here, the notion of a norm is one constructed by typological
+    comparison of epistemic structures, thus there may be infinitely
+    many arbitrary configurations of socioepistemic normatization that
+    exhibit extreme harmonization of belief. There is only one
+    effectively identical extreme of disnormatization: uniform
+    socioepistemic white noise. This may seem counterintuitive: how
+    can disnormative influences pull in many directions and lead
+    singularly to *the* nadir of harmonization of norms? This is a
+    phenomona exhibited by any system with spectral dynamics: the
+    state of maximally diffused harmonics is white noise, whereas
+    there is typically no spectral configuration resulting in any
+    singular maximal harmonization.
+
+#### Quantum Mechanics, Generalized. It Is Purely Informational.
+
+- Just like physical systems above minimal temperatures cease to
+  permit detection of the strange probalistic distortion of quantum
+  mechanics, so do the sociophysically disentangled behaviors of
+  agents in increasingly disnormative systems.
+  - This begs the question: is there an appropriate metaphor of
+    temperature, energy and degree of entanglement that pares to their
+    complementary phenomena in social systems?
+  - Distinguishing this challenge from the more general physical
+    analogies already introduced in earlier postulates, how does a
+    notion of temperature and energy to model the emergence of
+    disnormatization apply to distribution of socioepistemic
+    structures and the mechanics thereof?
+  - Conversely, if one reverses the flow of inference, do the quantum
+    mechanics of physical systems emerge from purely
+    quantum-informational dynamics that conceptually resemble
+    normatization?
+    - It's intriguing to follow, but would imply that the individual
+      components of systems with quantum mechanics are parameterized
+      by an awareness of the total system where the information is not
+      transmitted via known mechanisms in spacetime.
+    - That is, the individual components determine the collective
+      behavior, but the collective also informs the mechanics between
+      individual components, specifically to induce norms that are
+      perhaps related to particle configuration and conformation
+      entropy.
+    - Every physical system is fundamentally mathematic. The concept
+      of Boltzmann's constant applies not simply to physical
+      thermodynamic systems, but the very same constant is used for
+      any Boltzmann Machine in a computer simulation. The constant
+      arises from purely statistical notions of energy distributed
+      across space with defined mechanics.
+
+
+#### Beliefs About Information Consensus Leads to Amplification of Beliefs
+
+  - (maybe reorder this & following sections)
+  - how the recognition & acknowledgement of information consensus
+    amplifies (probabilities of types of actions/reactions by agents.)
+    - deciding what information to propagate (bandwidth constraints)
+    - a good example of this is logistics in business and the
+      establishment of procedures.
+      - how do you change processes?
+      - how do quasi-deterministic aspects of processes yield
+        certainty and reduce risk?
+      - how do concrete expectations influence the decision-making of
+        business partners? i.e. in business-to-business relationships
+        - when something is nearly deterministic, assumptions can be
+          made and even compounded.
+        - this is critical in supply chains: schedules can be set,
+          expectations can be relayed upstream to customers and other
+          business partners.
+        - businesses have capacities for the ad hoc adaptation &
+          flexibility of processes
+          - when relatively few events occur that force a reaction,
+            the business can redirect its resources/personnel
+          - but cumulatively, the effects of (deviation from
+            expectation) are not additive, they are multiplicative
+            - because of this, the differences between (zero risk and
+              minimal risk) in processes are immense.
+        - information about expectations/assumptions (of?) is often
+          more critical than information about the results, yet it is
+          harder to change someone's expectations/assumptions than it
+          is to change the results
+          - especially if their perception of results is biased by
+            existing assumptions
+
+      - so, ensuring that information related to logistics/processes
+        has been propagated is critical to attaining the coherence of
+        decisions/action/reaction in processes that yields the
+        quasi-determinism needed (for certainty/confidence)
+        - refine the above. explain how the prioritization of
+          information for consensus and the measurement of consensus &
+          process adherence relate this section
+        - how specific business relationships (internal/external)
+          break down when guarantees of process can't be met
+          - Service-Level Agreements (SLA)
+        - how some of the most important decisions (involving
+          interpersonal dynamics and developing the intent to
+          coordinate) are set while people are not face-to-face.
+          - describe more.... (making decisions about whether certain
+            types of events are certain/etc as it relates to the
+            coordination of personnel)
+          - expectations/assumptions set in this way are much harder
+            to change. usually, if a manager/coworker decides that
+            they feel that one employee won't adhere to expectations
+            with certainty (specifically certain types of
+            expectations), the employee will never directly hear about
+            it.
+            - that employee will find themselves being isolated, not
+              being brought into the loop and fighting being cut out,
+              perhaps without understanding why.
+            - because these expectations/assumptions are made based on
+              how people feel (esp. without the employee involved)
+              then as that employee becomes more cut out of the loop
+              and has more responsibilities/roles limited, they have
+              less opportunities to change those expectations.
+
+#### Wu Xing
 
 - signaling with Wu Xing (actual name of this?) in the Imperial Palace
   - there should be notes on this somewhere, but it's a perfect

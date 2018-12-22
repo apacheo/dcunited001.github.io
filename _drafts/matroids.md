@@ -1,3 +1,17 @@
+
+
+# Misc
+
+- [Bernstein's
+  Constant](https://en.wikipedia.org/wiki/Bernstein%27s_constant),
+  [Uniform
+  Approximations](https://en.wikipedia.org/wiki/Uniform_convergence)
+  and the capacity of analytical methods derived from polynomials
+  - these polynomials are created via convolution of free algebra,
+    - i.e. direct summing of tensor products to create the most
+      generalized polynomial system of N variables to provide a basis
+      for an analytical model with linear/quadriadic/cubic components
+
 ### Matroids
 
 - what happens with an infinite number of paths? nodes?
@@ -59,11 +73,65 @@
       - these ideas needs a lot of work lmao. these are likely
         problems encountered in theoretical computer science.
 
+#### [Decades-Old Graph Problem Yields to Amateur Mathematician](https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/)
+
+- the article above describes the minimization of five-color unit
+  graphs. the idea of interconnecting subgraphs in infinite graphs is
+  similar to the idea outline above. how can you evaluate the
+  interconnections between large graphs to determine if they tile?
+  - this problem shares some similarities to infinite penrose tilings,
+    where the the tiling never repeats
+  - detecting whether there is some upper bound for n-colors in
+    infinite unit-graphs is very interesting. in order to get vertices
+    to require (n+1) colorings, you have to force specific conditions
+    in neighboring vertices. there should be some algorithm to
+    construct graphs requiring n-colorings, but the only algorithm to
+    detect whether you've identified the n-color unit graph with the
+    smallest number of verticies requires exhausting all the smaller
+    possible graphs.
+  - to evaluate whether and how separate unit-graphs can be connected
+    together, it's almost like evaluating whether proteins have
+    compatible shapes and can interlink
+    - however, i think any penrose tiling (and even the infinite,
+      non-repeating one) can be translated into a unit-graph on the
+      plane.
+      - finite or infinte, the set of 2D penrose tilings should be a
+        subset of all possible 2D unit-graphs.
+      - but the non-repeating penrose tilings are uncountably infinite
+        and these are a subset of unit-graphs
+    - so, to understand whether in/finite unit graphs can be
+      constructed with more than five colors, i'd need to know more
+      about how (infinite?) unit-graphs approach the theoretical upper
+      bound (for the lower bound)
+      - what do the complements of these infinite graphs look like?
+        - i.e. for inifinite graphs *near* actual lower bound for
+          colorings, can you use something like the not operator on
+          their vertex sets or edge sets to find complements of those
+          graphs?
+        - starting with the maximal n-color unit-graphs, can you
+          specify individual nodes/edges to be removed?
+        - for an infinite unit-graph with the highest coloring, is
+          there any single node that can be removed to lower the count
+          of colors (no, but for finite unit-graphs, maybe)
+
+- if large graphs represent information-processing entities/structures
+  (a la DFA/NFA/QFA), then how these graphs can connect together is
+  relevant to theoretical computer science.
+  - if there is some upper bound on singular information processing
+    entities, then to surpass that bound requires networking multiple
+    entities together.
+    - large unit-graphs can only connect together if their shapes
+      don't overlap. there is always at least one way to connect them
+      together.
+  - describe in greater detail
+
 - probabilistic computing and probabilistic turing machines
   effectively describe the dynamical state machine programming idea
   described in my article
   - this form of programming might be most useful for programming
     quantum computers
+
+
 
 #### TCS x Neurology
 
@@ -363,6 +431,8 @@ as integers and rational numbers.
   - further, the amount of computing power required means targets
     would be limited
 
+
+
 # GPU Ideas
 
 - GPU algorithm to utilize lighting/spectra/raytracing in a
@@ -465,6 +535,12 @@ as integers and rational numbers.
 
 ### Composite Manifold for reduction of (n+k)-d spaces to n-d spaces
 
+- update: for the below, see [Whitney Embedding
+  Theorum](https://en.wikipedia.org/wiki/Whitney_embedding_theorem),
+  which utilizes a [Second-Countable
+  Space](https://en.wikipedia.org/wiki/Second-countable_space)
+  - these concepts seem to outline the basis of the below "fractal"
+    manifold
 - the way i'm imagining this, it's either a pretty amazing loophole
   for a lossless means of encoding elements of a space into fewer
   dimensions *without any loss of information*
@@ -564,7 +640,27 @@ as integers and rational numbers.
 - https://www.incendia.net/wiki/index.php?title=Fractal_Types#Kleinian_sets
 - http://www.popularmechanics.com/technology/robots/news/g2095/deep-dreaming-fractal-nightmares/?slide=22&thumbnails=
 
+# Infinitesimals
 
+### Stratification of Infinitesimals in Analytical/Numerical models
+
+- ODE's, PDE's, Continuity, Lie Algebra, E8 and the consequences
+  therein for infinitesimals, when they must align to E8.
+
+- The gradiation or stratification that results from the specific
+  algebraic structure for analytical/numerical models and the
+  observation/encoding of infinitesimal probability events.
+  - e.g. `(1/∞), (1/∞)ˆ2, (1/∞)ˆ3, ... , (1/∞)^n.`
+  - this seemingly idiosyncratic behavior occurs because of the
+    non-uniform distribution of infinitesimal values in statisical
+    systems, since the distribution of probabilities must result in
+    sums of products.
+  - therefore, for whatever values are determined to be infinitesimal
+    for a system (depending on the timescale of the frame of
+    reference) then for an analytical/numerical systems, the
+    infinitesimal values which emerge would tend to stratify or
+    gradiate along `(1/∞), (1/∞)ˆ2, (1/∞)ˆ3, ... , (1/∞)^n`, but
+    tending to break down very quickly.
 
 # Ir/Rationality
 
@@ -964,7 +1060,6 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
 
 # Geometry
 
-
 - "Euler's number for a surface's polytoroidal parameterization"
   - that's the note, literally. i can't remember what it was, exactly.
     - "Euler's number (X) a surface's polytoroidal parameterization"
@@ -979,9 +1074,17 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
         space with unknown size, and inferring the parameterization of
         the local region of space from the euler's number (& vice
         versa)
-      -
 
+### Metroid as a problem requiring matroid-based algorithms
 
+- players play the game and sociophysically propagate information
+  about items/secrets they've found to other players.
+  - when no one has information about how to play the game
+    efficiently, the game is always hard(inefficient).
+  - but as information is propagated, known efficient solutions are
+    distributed and players have less reliance on gameplay involving
+    search (expensive/inefficient)
+  - eventually people do ridiculous speed runs.
 
 ### Metroid =~ Matroid Connection
 

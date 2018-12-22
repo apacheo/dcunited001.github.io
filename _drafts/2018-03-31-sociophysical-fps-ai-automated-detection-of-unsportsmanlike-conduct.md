@@ -8,12 +8,69 @@ author:
 excerpt: ""
 ---
 
+- overwatch "ults" are like the FPS equivalent of Chrono Trigger
+  double/triple techs
+
+- bots to balance gameplay, to provide standard candles for matching
+  algorithms... (probably a bad idea)
+
+- when i'm playing overwatch while cyclicng on my exercise-bike-desk,
+  enemies that sneak up and attack cause me to start pedaling faster,
+  hilarious, its as if my subconscious can't fully separate it's
+  impulses and knee-jerk reactions.
+
+- there are games that are likely to become cybersports and those that
+  don't have a chance. however, it's not simply popularity that
+  dictates which games are "cybersportable" and which are not.
+
+- in rts battles vs. AI, unpredictably insert new adversaries who
+  fight each other in a way which totally escapes the AI's control/notice.
+  - this (what...) hijacks computational complexity
+
+### How Differences in the Computational Complexity of FPS Affects Stategy and Market Viability
+
+- the differences in computational complexity b/w Overwatch and
+  Fortnite limit Fortnite's capacity to be a cybersport
+  - that is, effective strategies in Fortnite are much more brittle
+    and also easier to copy. what is hard is finding an effective
+    strategy, but once its found, its trivial to imitate. that said,
+    the strategies that teams/players employ change the strategic
+    landscape (mostly by literally changing the landscape)
+    - this makes the game's strategy to computationally complex for
+      its gameplay to develop useful metrics of player/team
+      performance
+  - overwatch, on the other hand, has a more limited degree of
+    variation, limiting the ways to reason about tactics/strategy
+    - Fortnite's ability to modify the level in significant ways
+      obliterates some of the metrics detailed below
+      - for example, it's impossible to construct meaningful
+        probability distributions of player position on gameplay maps
+        because of the disparity of assumptions introduced by physical
+        level modification
+    - that's not to say that playing fortnite is pointless. i'm sure
+      it's fun. i've never actually played it.
+
+- how Overwatch's new social features are a great way to address poor
+  match selection and poor team cooperation
+  - if the endorsement feature doesn't find itself hijacked
+  - how this endorsement and group-selection feature addresses many of
+    these problems
+  - it also provides a more-simplistic means identifying players who
+    are good team leaders or at least consistently good followers.
+    - this only works as a means of identifying leadership of the
+      economics of the endorsement feature don't encourage players to
+      always attribute endorsement, even when that specific
+      endorsement wasn't deserved.
+
 - throwing people's games as a protest tactic (omg he's online, let's
   make him lose. we're really good at losing. like really good
   losers. we don't really know how to win, but we sure do know how to
   lose as a tactic and distribute the losses across our ranks.
   "strength" in numbers. typical communist shenenigans.)
 
+- Shapley values (powerset of team, etc) to determine a player's
+  contribution to various groupings and teams
+  - this maps to some section of this draft
 
 Most people don't understand what is possible with algorithms because
 the math required is astronomic. To most people, math is boring, but
@@ -403,6 +460,11 @@ unique.
     inter-activation times **with a lower bound** than average players
     - this usually means they're engaging the enemy more often
     - novice players will not activate their abilities as frequently
+    - but there is such a thing as too-frequent activiation
+      - thus, the players that consistently do the opposite and use
+        their abilities as frequently and quickly as possible are
+        likely not capable of recognizing the tactical implications of
+        those abilities.
 
 ### distance from objective
 

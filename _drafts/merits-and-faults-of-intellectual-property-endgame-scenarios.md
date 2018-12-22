@@ -8,6 +8,39 @@ author:
 excerpt: ""
 ---
 
+- how does ML fit into Actuarial Industries?
+  - most of the profit is found assessing risk people think is high,
+    but either you know is low or you know you can mitigate.
+    - the obvious example for AI/ML is on the car insurance industry,
+      since at some point, the risk for accidents plummets -- albeit
+      with fairly flat payout costs.
+    - how does this change pricing and the dynamics of competition in
+      an auto insurance industry once various thresholds of cars are
+      automated and thus the total risk systemically plummets? this
+      total as calculated with accident & safe driving stats, both of
+      which can be factors for mitigation with automated cars.
+  - but generally, how many similar trends will play out across
+    actuarial industruies, since similar risk evaporation trends will
+    play out across them systemically? further, similar mechanisms for
+    risk mitigation will also emerge, which were unavailable before
+    because of any such hardware platform to
+    collect, communicate & analyze the data?
+  - TODO: updload the other notes which mention the economics of
+    actuarial interconnections between businesses/industries
+    - these notes cover how actuarial entities for many categories of
+      product, many of which are industries themselves, impact those
+      businesses as well as macroeconomics in generally. i.e. there
+      are businesses selling products in categories, which are covered
+      by various actuarial products. from the perspective of the
+      economic graph, this is like a meta or hyper dynamic that
+      inflates costs and lowers risks, while providing profit motives.
+      - describe the macro/micro-economics of insurance companies.
+    - insurance companies will need to diversify and restructure. they
+      will be presented with further opportunities to destructure and
+      reconglomerate once the industry begins to change
+
+====
+
 - need to explore more about the merits/faults of final distributions
   of intellectual property holdings.
 - this is the interesting idea here, but
@@ -55,6 +88,22 @@ the global economy, barring civilizational collapse or a breakdown of
 international agreements. The seeds of this trend can be seen in
 holdings companies today for patents, *some* of whom you might call
 patent trolls.
+
+- in such situations, as the corporate entities begin to conglomarate
+  and converge into organizations with tighter distribution of
+  decision-making authority:
+  - there will be much less uncertainty to the average person or to
+    any corporate decision-maker with regard to how those fewer and
+    fewer elite will make their decisions.
+    - this is because it doesn't matter who the specific stakeholders
+      are -- board members, c-level execs and owners -- they will all
+      act similarly with regard to the specific decisions they make.
+      - thus the amount of uncertainty remaining that defines the
+        "possibility space" surrounding their range of potential
+        actions coalesces and becomes far more deterministic
+      - this is called FATE
+  - therefore, the system will reach a state where it begins to race
+    towards a final IP-distribution engame scenario.
 
 There is some set of companies that own and license a ton of patents
 out there. These companies and their holdings represent a distribution
@@ -221,6 +270,9 @@ above and rigorous academic performance to stay on top.
 The unicorns are dying, folks. Keep your fingers crossed, but Facebook
 was a fluke.
 
+[These Corporations are the Walking
+Dead](https://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle/)
+
 <a name="machine-learning-for-x" />
 
 ### [Machine Learning for X](#machine-learning-for-x)
@@ -256,7 +308,7 @@ market viability and competition, competing business models, the state
 of intellectual property distribution, etc. It requires mastery of
 advanced mathematics on top of a rigorous understanding of the
 specific machine learning application, in combination with business,
-legal, networking and financial skills.
+legal, networking and financial skills. (and public relations)
 
 That's just the technical baseline for opportunities machine learning.
 All of that applies, and more, for the opportunities in finance,

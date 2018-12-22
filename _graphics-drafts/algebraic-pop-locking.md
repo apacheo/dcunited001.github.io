@@ -11,8 +11,74 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 
 - TODO: figure out how to structure (with illustrations?) so that
   pretty much anyone can understand what i'm talking about
-  -
 
+- body waves and liquid movement incidentally resemble many of the
+  movements of Qi Gong. not only do they visually resemble the
+  movements, but they functionally cause many of the same anatomical
+  effects of Qi Gong and Yoga.
+  - this may allow Poplocking to serve as a stand-in for the practice
+    of Qi Gong or Yoga towards the cultivation of Chi or Prana,
+    respectively
+
+- Hip Hop is about (waking people up and providing people in poverty
+  with the tools to transform their lives), without needing to go
+  outside of the community to seek permission for transformation.
+  - Hip hop is a collection of cultural elements, whose practice
+    cannot be denied to people on the basis that they don't have the
+    money to participate.
+  - In addition to these aspects of Poplocking, Hip hop also includes
+    other means to subversively introduce spiritual practices to
+    communities that are often isolated and repressed.
+    - (True transformation that doesn't backslide avoids shortcuts and
+      cannot depend on outside help that ultimately results in
+      dependence and pre-existing obligations)
+    - Hiphop provides a basis for bottom-up cultural
+      transformation. People became empowered to change their own
+      lives without needing to entangle people from the outside for
+      assistance with social/financial resources. By leveraging
+      art-styles created by the people themselves, they also created
+      their own means of seeing themselves, measuring themselves and
+      defining themseves. Therefore, by looking at themselves through
+      the patterns of art they created themselves, they also became
+      empowered to define their own self-worth.
+      - Because it was all enabled without external social dependence
+        and because the democratization of technology meant that these
+        means of self-transformation were available to mostly
+        everyone...
+  - Graffiti is an artform about seizing the imagery in urban
+    communities, transforming it into art that reflects the needs for:
+    for positivity; for identity; and for control and ownership of
+    cultural artifacts, even when the buildings in those communities
+    can't be owned by impoverished people who live there.
+  - Rap and MC was originally about telling stories that were not
+    allowed to be broadcast on the airwaves and published in the
+    paper.
+    - Through their words, Def Jam poets and early MC's wanted to
+      maintain a history of what people in communities repressed by
+      poverty actually saw. Without the means to create, promote and
+      share their own art, any cultural artifacts produced without the
+      approval of the rich or the white lacked the kind of permanence
+      required to meaningful changes. That is, if the cultural
+      artifacts projected a message that threatened the authorities in
+      control of mass communication, their interests or their
+      narratives, then those cultural artifacts were not repropagated
+      to ensure they were never culturally amplified.
+      - Because these cultural artificts weren't distributed widely
+        enough to take root in enough people's minds, they were easily
+        rendered ephemeral by more powerful people who wanted to tell
+        another story. These powerful interests feel threatened by
+        narratives who wake people up to the corporate bullshit
+        systemically siphoning wealth from people, thereby creating
+        and perpuating poverty. That narrative isn't exactly good for
+        business.
+    - For people who legally owned recording studios, radio stations,
+      record labels, music retailers, as long as they worked together
+      to ensure the only people who could create cultural artifacts
+      with significance were "approved", then they could ensure they
+      could stifle true progress for as long as possible, all
+      perpetuating the narrative that those in power never intended to
+      do so. This is all patently false, of course.
+      - After the democratization of music production equipment...
 
 #### K-Os - The Love Song (school of kung fu & hip hop)
 
@@ -131,7 +197,6 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
       retrieval/calculations on which to base regional/global metrics
       on the system as a whole
 
-
 #### (a discrete version of something like [this hopf-for-simplicial-complices](https://arxiv.org/abs/1505.04458))
 
   - and provides calculation/addressing/storage/retrieval of metrics
@@ -158,7 +223,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
   - the goal is to come up with a framework for specifying rhythmic
     movements of *any jointed body*, not just any jointed human body.
     - i.e. you could take any 3D mesh's skeleton and generate a
-      framework for producing mesh morphs. so apply this higher-order
+      framework foxr producing mesh morphs. so apply this higher-order
       functional math to a 3D mesh and skeleton and produce functions
       that enable you to move it rhythmically
 
@@ -378,7 +443,6 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
   does that benefit? why would someone want this for america if it
   redirects(WASTES) the wealth we generate from GDP
 
-
 * thoughts on algorithms for poplocking both humans and non-human
   jointed objects,
 * generalizations to AI & psychology,
@@ -387,6 +451,79 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
   harassment and mind control.
 
 
+#### Pop'n'lock (X) Symbolic Combinatorics
 
+- pop'n'lock math analogy for mathematic origami
+  - parallels symbolic methods for estimating the nubmer of
+    sufficiently distinct tie knots
+  - discretize space of body positions as `body.positions` and expose
+    the space as (a magma of) composable monoids
+    - which are combinated and evaluated to enumerate all possible
+      body positions
+
+
+
+- expose `body.positions` as a set-theoretic space using some
+  partition functions (?):
+  - so that is indexable (read: countable) in various ways and along
+    various dimensions
+  - and so that eigen-functions can operate on each point in the space
+    of `body.positions` to determine whether each point astisfies
+    various asthetic properties
+    - asthetic properties like whether this body position could be
+      part of some tutting motion or wave motion.
+  - further extrapolate `body.positions` to a "ring-like space" that
+    enables combinations of `body.sequence` members in a
+    `body.sequence` space, where `||body.sequence|| = n members of
+    body.positions`
+    - wtf did i mean by ring-like space? and i think i mean that the
+      various kinds of metrics between elements of `body.positions`
+      allow balls to be defined "around" points `b` in `body.positions`
+      where the ball represents all other `body.positions p` within
+      `distance(b,p) <= d`
+      - in other words, a "ring" of body positions representing all
+        the nearby body positions that are within some distance `d` of
+        some metric on body-positions.
+      - this is overly abstract, but an incredibly valuable concept to
+        understand when trying to methodically understand poplocking.
+
+- this `body.positions` space can be transformed into the set of all
+  possible body sequences, by taking the powerset of `body.positions`,
+  yielding a set of all subsets of all body positions.
+
+- members of `body.sequences` can be "tensored" with combinations of
+  transition functions
+  - this isn't a "correct" usage of the neologism "tensored"
+    - for a `body.sequence b` of `b := [p1,p2,p3]`
+      - i mean that `b ⊗ "liquid"` fills in the missing details of the
+        sequence of body positions with a liquid transition. or `b ⊗
+        "direct"` fills in the missing details with direct motions
+        with minimal movements.
+  - what i mean here is that you can compress the representation for a
+    sequence of `n` individual `body positions` specified in a
+    `body.sequence`.
+    - for example, specify the beginning body position, then the end
+      position for a `body.sequence` of two positions.  this sequence
+      can then specify multiple transition methods to connect the
+      beginning and end body position.
+      - a direct tranition may or may not be available and represents
+        direct motion between two body positions.
+      - a liquid transition would specify "liquid" motion between two
+        body positions
+  - `body.sequence` also needs to support eigenfunctions and
+    *eigenstate* "for effect detection and effect persistence"
+
+
+- `body.positions` as a manifold/space, where various body positions
+  are connected by various kinds of paths/metrics
+  - so the metrics measure the distance between two body points by
+    determining the length of the shortest "path" between them, where
+    the path represents the morphism of one body position to another
+    body position.
+  - there are some body positions that are "closer" than others in the
+    amount of effort or in the amount of visually noticible change to
+    the 2D appearance of the body.
+- these metrics allow the space of available potential body positions
+  to be "navigated" from one body position to another.
 
 [^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)

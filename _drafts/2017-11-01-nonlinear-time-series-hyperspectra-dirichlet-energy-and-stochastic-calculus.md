@@ -20,6 +20,82 @@ excerpt: ""
   - correlate to signal representation & recovery
   - are there many such "atomic" representations of varying parity?
 
+
+#### TODO: add description of multilinear linear systems,
+
+- connect them to exterior analysis
+  - especially the symbolic/structural impacts of nuanced
+    differentiation onto multilinear systems
+- refer to instagram picture?
+  - and when you go from #Linear (with simple commutivity) to
+    #MultiLinear, it takes shapes like this:
+  - also, this picture helps with imagining shapes:
+    https://math.stackexchange.com/questions/1115910/checking-that-a-3-d-diagram-is-commutative
+  - and adds more complicated, less-regular shapings of paths for
+    transforming the system symbolically. sooo... the local area in a
+    commutativity diagram might then incidentally look something like
+    a ferris wheel (but not really and it probably wouldn't be
+    commutative). this is especially true once you take a system like
+    this and differentiate it, then try to permute it symbolically.and adds more complicated, less-regular shapings of paths for transforming the system symbolically. sooo... the local area in a commutativity diagram might then incidentally look something like a ferris wheel (but not really and it probably wouldn't be commutative). this is especially true once you take a system like this and differentiate it, then try to permute it symbolically.
+
+So I went on a run when I had a Eureka Paths through #Cohomology
+Diagrams of #MultiLinear Function/al/s is like the Ambrosia for
+Tensors ... and under some system configurations i.e. depending on
+coordinates set for the 1-lifted dual vector space and the n-lifted
+dual vector spaces of the BRAIDABLE(?!) co-chain that represents local
+isomorphic “paths” from [(n-2, m-k) .... (n+2, m+2)] .... then the
+image-kernel “transitions” from morphism to morphism can braid or
+loop, though solving for precise equivalently isomorphic paths would
+be complex, perhaps literally)
+
+
+#### MultiLinear systems are relevant for GPS applications but...
+
+are more profitable to learn for data science
+applications. multilinear techniques are useful generally for physics
+and engineering, as the #DifferentialOperator is a linear operator
+that yields multilinear systems. so taking the derivative (gradient)
+of higher-dimensional spaces for anything in vector calculus and
+beyond yields the tools of #ExteriorAnalysis, but quickly becomes
+complicated. #WedgeProducts (which are used for a "simple" definition
+of divergence/curl) are not so bad in 3D because the number of
+differential n-forms is fairly bounded by the few dimensions. In n-D
+systems, the size of matrices/tensors required to complete model
+differential apsects of the system are far more complicated.
+
+#### For machine learning
+
+for machine learning, to inform the backpropagation algorithm that
+changes the weights from training set to training set, ideas from
+#ExteriorAnalysis that build on #MultiLinear systems help you optimize
+the selection of weights, especiaally if your algorithm extrapolates
+many potential sets of weights simultaneously
+
+- connect to energetic dynamics on high-dimensional surfaces &
+  un/restricted boltzman machines
+
+#### In astronomy
+
+A good example of solving #MultiLinear system would be raytracing
+light paths through compounded gravitational lensing, where the 2+
+large galaxy clusters are separated by vast distances. Another very
+interesting aspect of physics where these ideas are applicable is
+considering/assuming the absence of #Jolt in real-world physical
+systems without intelligent life. So, basically because all physical
+laws (i.e. F = m*a = (kg * (m/s*s)) all max out at the second
+derivatve, then when a third derivative emerges, it's interesting,
+though not by itself indicative of intelligent life.
+
+#### Detection of Jolt in physics
+
+So, basically, when physical systems are left play out by themselves
+with their own rules, then certain dynamics related to #WedgeProduct &
+#ExteriorAnalysis show distinctive patterns and almost never exhibit
+3rd or 4th derivatives. When those derivatives emerge in physical
+systems, it is almost always extremely temporary and results from
+high-level phenomena of the system that are usually interesting and
+meaningful, for engineering or philosophy.
+
 ### Resources
 
 #### &#x2605 [Simons Institute](https://www.youtube.com/user/SimonsInstitute): [Workshop on Tensor Networks and Simulations](https://www.youtube.com/playlist?list=PLgKuh-lKre10UQnP7gBCFoKgq5KWIA7el)
@@ -33,12 +109,12 @@ excerpt: ""
 #
 
 Few topics have expanded my mathematic imagination to the degree that
-watching these
-[MIT 6.838 Shape Analysis](https://www.youtube.com/user/justinmsolomon/videos)
-lectures did. I've only watched two hours of the content, but it took
-me about twenty hours to process and absorb the requisite content. Why
-am I so passionate about learning math that is out of my reach?
-Because each new tool opens new worlds to me.
+watching these [MIT 6.838 Shape
+Analysis](https://www.youtube.com/user/justinmsolomon/videos) lectures
+did. I've only watched two hours of the content, but it took me about
+twenty hours to process and absorb the requisite content. Why am I so
+passionate about learning math that is out of my reach?  Because each
+new tool opens new worlds to me.
 
 Shape analysis (and computational geometry) is like the artistic
 application of discrete differential geometry. There is grueling
@@ -240,7 +316,6 @@ fashion to be used by the best 3D artists in the world.
 
 - [Discourse Analysis](https://en.wikipedia.org/wiki/Discourse_analysis)
 
-
 - the need to handle 2nd order logic makes this impossible (i think?)
   - and the need to make inferences about higher-order
     logics/grammatical structures. or the usages of imagery
@@ -285,8 +360,121 @@ fashion to be used by the best 3D artists in the world.
 
 
 
+### Tactically Reorder of Grammar For (specific) Semantic Emphasis
 
+- reordering statements to delay "triggershock"
+  - it's actually an impressively hard problem. as in, it's a
+    computationally hard problem, where the most efficient solutions
+    are unintentially discovered by people observing emotional
+    reactions that others present to their statements.
+    - they are then propagated. the statements that produce
+      functionally relevant emotional reactions (e.g. humor, shock,
+      etc) are duplicated and have greater propensity for
+      self-replication
 
+- however, one can algorithmically process many of the grammatical
+  structres discussed above (i.e. CCG trees that are corrolated to
+  their diffeomorphic impact on perceived semantic valuation)
+  - homomorphic permutation of rhetorical components while preserving
+    semantic impact. that is, one combinatorially permutes through
+    grammatical CCG trees that hold fixed the result semantic
+    valuation (or change in valuation) within some threshold.
+    - if one enumerates all the possibilities, the list that results
+      is a list of reordered grammar that the speaker/writer can
+      assume establishes the same impact, semantically
+    - one can then reenumerate over these statements, applying some
+      functional analysis techniques to optmize them in some specific
+      functional way.
+    - such techniques are useful for comedy, rhetoric, debate, etc.
+    - they allow you to enumerate all the possible ways to say
+      something, in order to identify the specific statements which
+      create the desired reaction amoungst various people.
+  - the simplest such example of this technique is taking a CCG
+    statement that contains a list of ~5 elements, each of which
+    provokes a specific response.
+    - the CCG allows you to permute this statement in at least (5!)
+      ways, while mostly preserving the statement's semantic impact.
+    - however, as the reader proceeds over what is functionally the
+      same statement, completely different reactions may emerge in the
+      reader's mind based on the ordering of the statements.
+    - this idea basically lays out the design of such statements
+      algorithmically.
+
+- C := the semantic context of listeners
+  - dC := the change in semantic context produced by a statement
+  - M := the semantic meaning of a statement
+  - dM := the difference in semantic meaning of two similarly
+    structured statements
+  - every statement S has some grammatically structure represented
+    by a CCG.
+  - the point is to represent the semantic meaning of a statement and
+    its change in some contexts logical/semantic valuation
+    - where a listener's context is the set of facts inferred from a
+      speaker's statements...
+  - then the algorithm would take some statement S, along with a
+    context C and permute the statement's grammatical structure,
+    extrapolating and comparing the C, dC, M & dM, which parameterize
+    some function f which is to be optimized for impact.
+    - there's no simple answer and the only way for an algorithm to
+      know how statements affect a listener's context is evaluate
+      every possibility.
+    - for people learning to speak/socialize, we are forced to make
+      assumptions about the listeners' contexts, which are necessarily
+      imprecise, ephermeral and transient.
+      - they are imprecise: we can't know someone's mental state.
+      - ephemeral: it doesn't matter if we have a fairly accurate
+        assessment of someone's mentally constructed semantic context
+        because they can simply say they were thinking something else.
+      - transient: everything we say changes what people are thinking
+    - for people engaging in public speaking, the best way to make
+      assumptions about the context of listeners in the audience is to
+      have about 5 minutes to talk and hope they listen for long
+      enough to construct similar enough informational contexts about
+      your presentation/speech
+      - when speaking about more intellectual endeavors which are less
+        understood, it's practically hopeless, unless you can
+        guarantee the background of your audience (i.e. they have
+        degrees in X,Y,Z, etc.)
+  - without understanding this concept algorithmically, it's possible
+    to condition oneself with successful behaviors/habits when
+    speaking publicly or in casual conversation.
+    - however, if no one has walked you through these techniques (or
+      you deal with neurologically derived communication issues) it
+      can be incredibly challenging.
+    - at that point, one can hope that people in society are tolerant,
+      welcoming and understanding.
+    - for me, almost every social endeavor (whether its family, etc)
+      involves people playing "conversation keepaway" -- basically
+      gaming the rhythm, topics and focus of conversations to prevent
+      me from being able to have a chance to speak.
+      - if i open my mouth, the topic is quickly changed. the focus of
+        the conversation never falls on me, unless it is to
+        chastise/belittle me.
+      - i'm socially vulnerable as it is and have experienced nothing
+        other than a decade of humiliation for no reason that can be
+        explained to me.
+
+- someone who repeatedly uses these tactics of reconstructing their
+  statements for rhetorical optimization has almost certainly been
+  taught to do so.
+  - there are many reasons you might want to do so. you can reorder
+    statements to lead someone on, only to make them laugh at the end
+    or perhaps to offend them.
+  - psychologists do this all the time: they plan their conversations
+    and statements carefully, to draw the patient into revealing more
+    information without putting that person on guard.
+  - people also use this tactic in negative ways. regardless, you can
+    only intend to do this if you have a ton of conversational
+    experience and a high emotional intelligence.
+    - again, the intent is to optimize the ordering/sequence of
+      statements for emotional/informational impact. anything with
+      high magnitude emotional/informational impact can be used with
+      positive or negative intent.
+  - (regardless), using this technique to tactfully rearrange
+    statements requires effort and intent, both of which speak louder
+    than any words spoken. again, it's a hard problem, with some
+    general higher-order types of CCG permutation that are slightly
+    more efficient.
 
 # [Intro To Tensors And Algebras](#intro-to-tensors-and-algebras)
 
@@ -748,7 +936,7 @@ mesh that represents some point along a [mesh morph]().
 
   - (bitemark analysis: there are huge connections b/w confidence in
     techniques like those and computational methods used in the
-    humanities)
+    humanities)psyq
     - the hardest part about designing studies using these methods is
       proving that one can be confident in the conclusions. if the
       analytical methods can't be proven, inferences and deductions

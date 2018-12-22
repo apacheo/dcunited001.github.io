@@ -8,14 +8,13 @@ author:
 excerpt: ""
 ---
 
+
 > Every person helplessly creates this through life, even before
 > taking a breath. We cannot digest as much as we regurgitate. It is
 > impossible to destroy. On seven continents, its trees bloom and
 > pollinate.
 
 - [Picture for Geometric Mechanics]
-
-
 
 #### Distance Metrics in Information Networks
 
@@ -26,7 +25,6 @@ excerpt: ""
     inschematic games
   - connections to nash equilibrium (when does the equilibrium exist
     and for which games is it unreachable/incomputable?)
-
 
 - TODO: use Graph-Theory version of Gauss-Bonnet (from Oliver Knill's
   paper) to provide an example of a potential basis for
@@ -79,7 +77,8 @@ excerpt: ""
 - how to relate this stuff to holonic representations of
   information-forms?
 
-- (*THIS* is precisely why i'm so interested in papers like these)
+- (*THIS* is precisely why i'm so interested in papers like these
+  (oliver knill's))
   - if there is some certain structure for modeling the metaphysical
     -- which results in gradual/sudden consequences dependent on
     factors such as immediate/eventual computability -- then how
@@ -94,6 +93,38 @@ excerpt: ""
 [^neutral-nets-in-sequence-space]: [Biophysics of protein evolution and evolutionary protein biophysics](http://rsif.royalsocietypublishing.org/content/11/100/20140419.figures-only) (2014)
 
 ![Many overlapping neutral nets in sequence space]()
+
+
+
+- connect kantian category evolution to continuity mechanics of
+  systems represented by E8 (viz. plotting systems of varying
+  continuity on the discrete surface of E8, which is shown to be
+  capable of representing systems with irrational numbers of varying
+  "parity": phi^(-2) to phi^5)
+  - connect to the assertions in the last "speed of thought article"
+  - the structure of information representing the epistemic structures
+    expands and contracts, but the (continuum mechanics for
+    metaphysical systems) demands that all possible system
+    configurations map to E8 (via ... combinatorial hopf algebras of
+    simplicial complices??)
+
+  - this idea connects much better to quantum mechanics than to graph
+    theory & epistemology
+    - for graph theory, simplicial complices and epistemology, the
+      structures must be mapped through combinatorial hopf algebra,
+      structures which i don't understand whatsoever lol ... at least
+      not at the moment. however, they don't look challenging, simply
+      voluminous
+    - the wave function, as it collapses, must preserve C^(infinite?)
+      continuity of the system's evolution as it relates to the E8
+      lattice
+      - (is there any difference b/w collapse of a wave function and
+        it's observed collapse? the wavefunction does collapse or is
+        at least modified by observations)
+      - can rapid observations of quantum systems result in a
+        reconstructed position/momentum over time via inferences made
+        through continuity mechanics?
+
 
 ![Two overlapping neutral nets and their final conformations]()
 
@@ -237,6 +268,8 @@ excerpt: ""
 
 -
 
+#### Telling Standup Jokes
+
 #### Betting/Bookies Example
 
 - five people place bets on two separate sporting events
@@ -275,7 +308,7 @@ excerpt: ""
 
 - fog-of-war in overwatch communication
   - especially the rate of expiration of types of information
-    vs. bandwidth as an immediately expendible, allocatable commodity
+    vs. bandwidth as an immediately expendable, allocatable commodity
 
 
 ### Mechanics and Dynamics Semiolinguistic Games in Social Physics
@@ -293,6 +326,47 @@ excerpt: ""
   to identify "longer" and more distant pathways for inferences
   - the types of "inference" pathways are more varied and less typical
 
+  - metrics of n-dimensional "volume" of cliques in activations of an
+    intelligent individual's information/knowledge graph
+    - the more intelligent a person, the higher-dimensional the
+      cliques will be that represent activations of their
+      information-graph
+    - whereas less intelligent individuals will stop...
+      - one major downside to the more profound tools of
+        meta/cognition is that they cannot be readily explained -- to
+        the point of nigh ineffability
+      - this is a major problem for intelligent people
+    - this is
+
+    - critically, such (savants of metacognition) are able to
+      modularly compose together many such activations to validate the
+      same hypothesis/assertions. this vehicle of metacognition allows
+      them to slice through ambiguity, intentional duplicity,
+      uncertainty, etc.
+      - there is paradoxical fallability in all artifical information
+        systems -- those which are constructed within the confines of
+        the marxist dialectic and its materialist impositions.
+        - this paradoxical fallibility implies: **there is always some
+          disinformation in information which has materialist
+          origins**
+        - the only information which does not have such inherent
+          fallibility is universal knowledge -- which transcends
+          time/space, but can be modularly combined for processing
+          with materialistically-derived information.
+        - still, no such universal knowledge can ever be fully known
+          or realize. aside from the recursive kernal which generates
+          the rest of its structure, the universal knowledge itself
+          quickly transcends humanity's limits of computability
+    - when combined with generalized inductive reasoning at the
+      meta/cognitive levels, this ability to modularly compose
+      multiple neuroanalytical pathways to validate the same
+      informational assertion is powerful, but taxing in terms of time
+      and energy.
+      - lower-dimensional activations of an individuals
+        neuroanalytically-constructed information graph are *always*
+        more efficient, but also more versatile, producing more
+        robustly assertable hypotheses for the individual to validate.
+
 - intelligence as the ability to identify/follow/etc longer paths
   through information networks/graphs
   - most people would find these longer paths and complicated graph
@@ -304,6 +378,106 @@ excerpt: ""
   measures of speed, certainty, etc can be developed
   - here, time can be defined literally or the number of cycles some
     entity might require to make the inferences or connections
+
+
+- modeling the impact that the initial presentation of information has
+  on the mind as a path through this information graph.
+  - the relatable example would be deciding what to put on a business
+    card and trying to reason about how the specific pieces of
+    information you include "root" the forms of paths that become
+    possible
+    - what is the right level of information?
+    - what are the right specific pieces of information?
+    - can you guarantee that specific symbols which are included will
+      be conveyed as expected?
+    - if your understanding of which specific piece of information are
+      to be consistently conveyed is assumed to be correct, then how
+      does knowing the basis of symbols/ideas to be conjured in the
+      mind of someone who has just met you tell you about how their
+      minds will extrapolate from that basis?
+
+  - i started thinking about this because i looked at a business card
+    for a church which included the name only...
+    - did they expect someone to Google the name? isn't that leaving
+      the person with a range of experiences which would be too
+      open-ended?
+    - because of the open-endedness, there are no guarantees for
+      assumptions on the range of thoughts/experiences that a prospect
+      had when connecting the dots b/w your business card and finding
+      a person associated with your church.
+    - because you did not include the right pieces of information,
+      and because this implies you cannot rationally make assumptions
+      about the sets of information they accumulated along the way
+      when googling your Church, then it limits how you can reason
+      about their experience in finding you ... or does it?
+      - in some instances, allowing this to be more open-ended
+        (instead of simply including the direct link to a website or a
+        facebook page) will cause the prospects who manage to contact
+        you to present you with information that includes information
+        they accumulated along the way in finding you
+        - but ONLY if you ask the right questions when someone new
+          contacts you.
+
+  - when deciding what the basis of information should be, there are a
+    few factors which predominate how you will reason about
+    this. given a collection of symbols presented in a visual format:
+    - you cannot guarantee how long someone will give your business
+      card their attention.
+      - the longer someone gives you their attention, the more
+        information they will absorb, but this doesn't necessarily
+        correspond to the amount of information they will retain.
+    - people can only remember two or three of those symbols included
+    - people will typically search for types of information (this
+      corresponds to their personal "schema" for the collection of
+      information which is relevant on a business card)
+  - once you have decided on the set of symbols to consider to be the
+    basis of symbols that will be evoked when someone views your
+    business card (or painting), you can reason about this like you
+    have planted some "force-producing" "objects" into the
+    "informational-field" of someone's mind
+    - here, informational field should be a space, where it's
+      field-like nature causes it to operate in much the same way as
+      the electromagnetic field.
+    - the collection of objects exert a "force" in a high-dimensional,
+      semiotic space that distorts the paths that people's minds will
+      take on that space.
+    - so, by choosing a particular set of symbols, you are choosing to
+      distort the paths that people might take in space (once you
+      separate yourself from having to make assumptions about how and
+      whether their minds will actually evoke activations associated
+      to those symbols)
+    - by choosing this set of symbols, you're basically "rooting" the
+      precipitation of paths along which people's minds will guided
+
+
+=========
+
+- digression from metrics of graph-actiations meta/cognitive
+- however, since **the human brain is analytical machine and one which
+  processes quantum-information systems, our powers of imagination, as
+  methodically applied to abstraction, vastly outweigh that produced
+  - <digression>*BY THE WAY EVERYTHING BELOW IS TRIVIAL KNOWLEDGE FOR
+    MATHEMATICS __PHDs__ so therefore DOES NOT CONTAIN
+    GODDAMN TOP-SECRET INFORMATION YOU SHIT-DICKS*
+    - to those who would seek to cover up warcrimes against a
+      would-have-been Einstein, stop terrifying everyone around me
+      from listening to me by baselessly claiming i have access to
+      top-secret information. i don't have access to anything which
+      cannot be found on Wikipedia, Elsevier, or Sci-Hub</digression>
+  - if i were to be wrong on this, then computers would have
+    cracked the greatest mathematical mysteries in the 1970's
+    via the combinatorial application of universal algebra to
+    the methods of automated-theorum proving
+  - that is, if i'm wrong, then authorities of thought have already
+    received every answer to every mathematic theorum, even those
+    relating to theories of math that cannot be stated in words --
+    those whose symbolic representation vastly expands beyond any
+    human's capacity to emulate symbolic systems of logic
+  - while i do not believe computers yet capable of solving these
+    problems, that is because they are not as great at manipulating
+    symbolic systems using quantim-information processing techniques,
+    which has little to do with systems of computation using quantum
+    computing, but which is greatly augmented by it
 
 # The Informational Physics of Cultural Movements
 

@@ -4,9 +4,14 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 ---
 
 
+- how social technology platforms establish a cottage industry for SEO
+  & social media, which effectively paywall access to information.
+  - with a chronological newsfeed, you wouldn't need such large
+    SEO/Social budgets to even reach your friends.
+
 - ![Gulliver and the Lilliputians]()
 
-
+- TODO: use ender's game pictures
 
 - thesaurus:
   - territory
@@ -162,6 +167,12 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
   capital.
 
 # Qualities of Territory
+
+- also, describe factors related to the consumption of information
+  - attention is one loosely quantifyable factor and one that has
+    inherent bottlenecks, as well as geospatial dynamics
+  - attention, its geospatial and social aggregates, the direction &
+    intentionality of attention
 
 ### Transiency
 
@@ -836,6 +847,9 @@ interactions will overtake mobile after like 5 years.
 
 - exploiting buridan's principle
   - buridan's is pretty fucked up if you think about it
+    - explain it in terms of operant conditioning for minimizing
+      "movement" along high dimensional surfaces; stagnation of the
+      mind's "gradient descent" via psychological reinforcement
   - explain the original aristotolean version
     - food & water, man's halfway between both.  but he STARVES every
       time.
@@ -852,7 +866,7 @@ interactions will overtake mobile after like 5 years.
       belief systems can be used to stagnate that person
       - wow, that's really, really, fucking depressing
     - so, if it can be used for controlling people through their
-      belief sy
+      belief system
       - then it also speaks on the value of more-uniform belief
         systems
       - that is, if everyone has mostly random belief systems composed
