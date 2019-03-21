@@ -10,8 +10,24 @@ title: "Graphics Ideas"
   - i.e. select texture and provide options to transform it to a GIF
 -
 
+- density of emoji description keywords distribution over a semantic
+  network (trained in english or chinese)
+  - just plot points for each emoji title/descriptions most
+    significant keywords over a semantic network (representing
+    english) to see which semantic concepts are over-covered and which
+    concepts are not covered.
 
 # Misc
+
+### GIS
+
+#### Measure of 2D area of terrain surface visible from a point in 3D space.
+
+  - this is tightly coupled to local/regional changes in convexity/concavity
+  - This measure is lower for terrain with ravines, higher for areas of
+    high elevation and visibility, Lower for areas of low elevation
+  - Connections to variations calculus? I don’t no why but it seems
+    there are some intuitive connections here
 
 ### Visualized Deconstruction of Probabilistic Values in Catan
 

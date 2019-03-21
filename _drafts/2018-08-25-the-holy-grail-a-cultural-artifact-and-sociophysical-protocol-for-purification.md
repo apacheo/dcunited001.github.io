@@ -8,6 +8,307 @@ author:
 excerpt: ""
 ---
 
+“...I prefer the term ‘the unconscious’, knowing that I might equally
+well speak of God’ or ‘daimon’ if I wished to express myself in mythic
+language. When I do use such mythic language, I am aware that ‘mana’,
+‘daimon’, and ‘God’ are synonyms for the unconscious, that is to say,
+we know just as much or just as little about them as about the
+latter. People only believe they know much more about them and for
+certain purposes that belief is far more useful and effective than a
+scientific concept.” - ‘Late Thoughts’, the final chapter of ‘Dreams,
+Memories, Reflections’
+
+> I am here to tell you: it is no longer necessary for society to
+> shroud the next generation in darkness to retain control or
+> order. Whatever justifications you think you have for doing so, I
+> will eliminate them. I will break the mechanisms of control and the
+> reasoning for them. This is why I am who I am. It is now my raison
+> d'être.
+
+======
+
+# What Do You Do When No One's Watching
+
+> "what you do when no one's watching says more about your character
+> than what you do when you think someone's watching."
+
+Not a bad way to reassess your character and the influence that others
+have on you, but is it a good way to judge someone else?  Today, in
+the 21st century, does this still apply -- when we all know that the
+NSA is always watching? Is this really a good way to judge everyone?
+How can you be sure that someone has been causally isolated? And if
+someone is so socially isolated that it can be said they are
+hermetically sealed from causal interference, *ARE YOU AWARE OF THE
+DAMNING DOWNSTREAM HARM CREATED IN THEIR LIFE?* Is there any
+possibility for true causal isolation in our hyperconnected world?
+
+### Quoth the Raven, "Never more!"
+
+Socially vulnerable people are almost always isolated, in one way or
+another, whether sooner or later. Either isolation causes their pain
+or pain creates the isolation that births subsequent enmities and
+pains, perhaps for the remainder of their life. Extreme or protracted
+isolation is a strong mutagen for the psyche. When you know that your
+actions causally impact someone's thoughts or state of mind, this in
+itself exerts an unconscious impact on your mind.  You are forced to
+parameterize your actions by coming to terms with how it impacts
+someone else's thoughts, words or actions. For this reason, someone
+who suffers protracted isolation will slowly develop neuroses and
+gradually lose touch with any social norms. There is no external
+reinforcement of norms. Consider how miraculous it was that Chomsky
+decoded language without needing to study a Tarzan raised completely
+outside the social propagation of language -- could that person ever
+learn language? What about an adult who has suffered nearly a decade
+of artificial social isolation? What would the effects be on their
+person's conceptualization of "adulting" and social norms? It would
+nearly ruin their development, perhaps forever. They would never age
+normally again, psychologically -- i.e. their process of development
+may forever be stagnant and idiosyncratic. They would be misunderstood
+for the rest of their life.
+
+In order for isolation to be useful as a psychological change agent,
+it would need to be carefully monitored.  Could such isolation be used
+beneficially, considering the social or emotional consequences? To
+whose benefit? Does isolation work as a vector for psychological
+change if the person is aware they're being intentionally isolated? Is
+it effective if they have choice? If they do have choice, can they
+simply walk away from their isolated circumstances? It's easy to say
+they are free to leave unharmed if you live in a society where social
+physics is verboten and people are punished for trying to teach
+knowledge about life and society. If that's the case, nearly every
+person is ignorant of social resources -- and ignorant of how to live
+life. What's the point in America trying to pretend that stands to
+protect an international order -- the UN and Geneva Convention --
+that, in turn, protects life if America also forbids its citizens at
+home from learning about how to effectively live life? It's
+unbelievable that I would suffer so much lashback from all directions
+in America, simply for trying to teach people about social physics! I
+want to help people circumvent the pain and torment that I've
+experienced at the hands of those who abuse power! GOD FLOOD AND DAMN
+IT ALL!
+
+If you believe in the traditional definition of God, then you believe
+that someone is always watching you. However, the definition that I've
+developed for God is a collection of information from the shadows of
+the unconscious which is accumulated through the generations. In other
+words, God is a helpful collection of information about causality --
+i.e. the downstream consequences of people's actions -- that has been
+accumulated over the course of centuries or millenia. This is God, but
+does not necessarily imply the existence or non-existence of an entity
+who is aware of everything that occurs. Knowing God helps you to
+inform your actions with an `a priori` knowledge set of the
+consequences of your actions -- without having to live out your
+mistakes in order to learn from them. That your conception of God and
+your belief systems laws that follow thereof are justified is what
+makes the concept of ultimate, unchanging truth so critical in
+Abrahamic religions -- how do....
+
+  - Acting in accordance with this definition of God is beneficial and
+    acting out of accordance is ultimately detrimental. This
+    definition of justice is not carried out by an entity, but carried
+    out as part of the socioinformational consequences of your
+    actions, both positive and negative. Understanding the
+    harmatological consequences of sins is critical to understanding
+    right and wrong, given this definition of God.
+    - ....
+
+======
+
+Whitehead's seven quotes on God and the material realm.
+
+
+
+======
+
+terms (wiki articles)
+
+- pneumatology
+- eschatology
+- malthusian catastrophe
+- perichoresis
+- phenomonological definition of god
+- conceptions of god
+- process theology
+- process philosophy
+- pierre teilhard de chardin
+- existence of god
+- apologetics
+- christian existential apologetics
+- religious epistemology
+- christian apologetics
+- historiagraphy
+- historiagraphy of early christianity
+- presuppositional apologetics
+- ontic
+- ontologism
+
+> Ughhh what forms do I need to complete at the Ministry of Theologies
+> to register this whole "religion" thing? I want to make it official
+> and I don't want street theater to falsely implant the impression
+> within me that knowledge of my religion is a norm. Why would the few
+> people close to me do that? Perhaps to dissuade me from taking my
+> belief system as far as it must go. If it's already gone far enough,
+> then perhaps I'll simply let everything go. Thank you.
+
+You cannot censor a religion: to do so is to revoke the last remaining
+Right in the Bill of Rights!
+
+> "You can't just start a religion! That's ludicrous! What if just
+> anyone did that?! You have no followers! Who do you think you are,
+> Jesus Christ!?"
+
+No, but I was hoping you would make the claim that I was making that
+claim because I'm prepared to correct you and siphon your energy to
+save humanity.  People lash out at "cult leaders" and since everyone
+already treated me like I was practically a *Charles Manson* ... I'm
+so tired of being defined by other people as the opposite of
+everything that I am. Do you know how traumatic that is? I thought I'd
+let people think that I was giving them what they wanted all along:
+the opportunity to destroy me. Then, when they went for it, I thought
+I'd ask some really good questions. But most critically, I would take
+the opportunity to define myself. I model much of my behavior on
+Socrates and Jesus. You are the sum of the five people you spend the
+most time with: these are the psychological types and metatypes that
+you absorb into your mind; the more time, the more psychosocial
+osmosis occurs. When have a constant fascination with biographics and
+history -- what made the greats *truly great*? -- but you are
+thoroughly isolated, then you begin absorbing the personality traits
+of history's hero's and villains. This is my working theory, anyways.
+It may be wrong, but it's how I rationalize purpose from my suffering
+and isolation.
+
+Try it sometime, it's fun. Sometimes it manifests greatness. Sometimes
+that greatness is locked away from society, but that's something you
+can only help when you have power. If you have none -- no social or
+financial resources -- then it's not your fault. It can't be. You
+didn't have options. You didn't have power. What did you do to
+overcome that? What did the greats do? Learn from them because
+informational resources are all you have for power. Are pleasure and
+pain the same thing for you? Then you can break free from the
+[Lustprinzip](https://en.wikipedia.org/wiki/Pleasure_principle_(psychology))
+that binds other men, so easily rendering them predictable. You defy
+predictability because other men cannot rationalize your conception of
+pleasure and pain, of love and fear, .
+
+> That person who is the same in pain and pleasure, whom these cannot
+> disturb, alone is able, O great amongst men [Arjuna], to attain to
+> immortality. (2.15)
+
+If you define yourself and are not affected by the actions of others
+on the shared sociophysical fields, except when it suits your values
+system, then perhaps you may be predicted, but you cannot be moved
+unless you move yourself. You are like a giant boulder and perhaps God
+himself can move it, but no men may exert such force on you. This can
+be a quality with both good and bad consequences to the individual --
+you must know yourself *truly and deeply* and you must align yourself
+to proper values, which render your actions righteous. Even if you do,
+and especially if you are vocal in your defiance, men will seek to
+test you -- they will subject you to whatever forces they believe
+necessary to roll your boulder into lower places and lower realms,
+from where they might tower over you and make you their puppet. Know
+yourself *truly and deeply*, seek justice, seek truth and seek values
+which are universal. Then you are so strong that only God can move
+you. This is not simply a metaphysical truth: God is an informational
+force acting on reality and can wash you away in an instant.
+
+> Notions of heat and cold, of pain and pleasure, are born, O son of
+> Kunti, only of the contact of the senses with their objects. They
+> have a beginning and an end. They are impermanent in their
+> nature. Bear them patiently, O descendant of Bharata. (Bhagavad Gita
+> 2.14)
+
+As I know them sociophysically, heat is broad social motion and cold
+is stagnating isolation. Those who try to contain you will freeze you
+away from society. Get salty -- embrace knowledge and immerse yourself
+in it. When you are deprived of financial resources, you will find
+yourself socially bound. When you are socially bound, you will find
+yourself deprived of opportunities. Thank God for the internet,
+because for now, they can't take that from you. This leaves you with
+informational resources. Consume as much as possible, bind your time
+and creatively search for your soul, so your isolation does not feed
+Jungian regression.
+
+If you're isolated unjustly, it could be because you don't know
+yourself -- if that's the case, then mild social isolation can help
+you do some *soul searching*. But society at large unjustly mislabels
+you and walls you within false distortions of your true character, you
+will find yourself at in a confusing hall of mirrors, constantly at
+war with images of yourself which are false and distorted. Break every
+mirror and define yourself to the world.
+
+Can the sources of enmity within someone and all the echoes thereof
+ever be totally cleansed? Where does it all go when we bottle it up?
+Can the reverberations of negative energy be neutralized?
+
+These are
+
+
+Still, several factors are required to justify and pave the way for a
+new religion or a new denomination:
+
+### There must be a need.
+
+God is or was dead. We are approaching a cliff and beyond is the abyss
+of nihilism.
+
+...
+
+Humanity's need for religion itself is ripe to be rekindled. When it
+is, we will have a fresh direction to rush towards and this may be the
+final direction we choose to socioculturally evolve towards.
+Humanity's collective separation from religion, viz. a shared uniform
+belief system, is similar in nature to the energy potential before a
+lightning strike. The strength of differential in charge distribution
+that accumulutes before hand translates into the approximate magnitude
+of the lightning strike. The stronger the dissonance in charge, the
+greater the strike. This is why humanity's relegation of religion and
+the spiritual -- i.e. Nietzsche's "God is Dead" -- translates into the
+greatest such energy potential in history. This energy, when it
+becomes socioinformationally kinetic, must be channeled wisely, but it
+should not be channeled into a single religion. This is the same Boom
+and Bust cycle that's responsible for the spiritual revitalization of
+religions and belief systems.
+
+### There must be theological and philosophical distinctions.
+
+- You can't simply copy a movement, belief system or religion. Many
+  religions simply take a step.
+
+### There must be truth and it must be defined.
+
+- many people find religion or find God because they need direction in
+  their life. Not all religions are the same and not all openly define
+  "truth" -- some religions do not have widely published texts and
+  nearly all religions restrict the diffusion of esoteric knowledge.
+  - i.e. Scientology, Wicca
+
+
+There must be cohesion and coherence somewhere in the informational
+structure of the belief system. The traditions of Scientology,
+witchcraft and other are more chaotic and fluid. They try to confuse
+their followers and they defy apprehension or succinct description.
+Sometimes, there is no definitive text which describes their beliefs
+
+### There must be a mission for the followers.
+
+To save humanity. What else is new?
+
+If you can't do these things, or at least gather followers, then
+
+
+
+
+### Is God Really Dead?
+
+The true 21st century meaning of Nietzsche's "God is Dead" is that
+Jüng's idea of the "Old, Dead God" becomes evoked universally in
+mankind's imminent return to the spiritual to transcend soulless
+nihilism with a sudden revival of religion. instead, it's everyman's
+idea of God that returns from the brink of death. whereby Jüng's
+concept of the Old God becomes magnified in proportion to the
+magnitude by which the archetype of God congeals from unconscious
+shadow to prevalent, unifying force of unconscious made dominant in
+the collective consciousness...
 
 [System of a Down - Tentative]()
 
@@ -21,16 +322,37 @@ excerpt: ""
 >
 > No one saved us...
 
-- What does it mean for God to exist, beyond this world, beyond the
-  veil?
-  - What does it mean *to know* that God can never be totally made
-    manifest in the physical realm, except by the indirect mediation
-    of forms from the noumenological realm?
+#### &#x2605; What does it mean for God to exist, but only beyond this world, beyond the veil?
+
+What does it mean *to know* that God can never be totally made
+manifest in the physical realm, except by the indirect mediation of
+forms from the noumenological realm?
+
+
   - "a priori, synthetic" from the metaphysical
 - Does this place responsibility on man in manifesting harmony with
   God's true forms as best it possibly can?
 
-... also: [SOAD - Solder Side]() from the same album
+... also: [SOAD - Soldier Side]() from the same album
+
+####
+
+![Earthquake]()
+
+The theologically necessary underpinnings of religions have perhaps
+changed.
+
+Jesus is an absolute pinnacle of human-being: no man can transcend
+what he accomplished. This is what allows the idea of Jesus to form
+the basis of the Christian values system: in gradient descent terms,
+Jesus is the North Star whose position never changes and if you move
+in this direction, you improve yourself.
+
+since humanity is now racing off a cliff into a nihilistic abyss where
+all humans are certainly overshadowed by AI, wouldn’t it be great if
+there was someone that we could all strive to be, but still surpass in
+many ways?
+
 
 ======
 
@@ -379,10 +701,10 @@ value.
     sparsely ever been more than 2.5. With more grandparents spending
     more time with younger parents, this dramatically increases an
     individual's average cumulative flux of information exchange
-    between their lifelong connections in their social
-    network. Therefore, that societies exoliterary persistence of
-    social memory increases exponentially -- similar to an inverse of
-    the [Broken Window]().
+    between their lifelong connections in their social network.
+    Therefore, that societies exoliterary persistence of social memory
+    increases exponentially -- similar to an inverse of the [Broken
+    Window]().
     - Therefore, early on, social memory was rebooted quite often,
       which was a mythological design imperative for our distant
       ancestors: myth demanded teleological information be compacted
@@ -392,12 +714,9 @@ value.
         evolutionarily-advantageous teleological relationships between
         cultural universals
         - relied on semiotic signifiers mostly pointing
-
-
         - frequently experienced meta-narrativestowards
-        symbols representing
+          symbols representing
         - local flora & fauna
-
 
 ### Extrapolating Logical Consequences of Epistemic Structures With Epistemological Virtual Machines
 
@@ -464,7 +783,6 @@ system of higher truths.
 
 
   priest-classes of polytheistic
-
 
 ### Jesus, The Stone The Builders Rejected
 
@@ -1520,8 +1838,6 @@ on roman infrastructure.
   extend the time remaining until such Apocalyptic crisis from
   twenty-six generations through forty generations.
 
-
-
 [^fem-wbm-displacement]: [Wave-based prediction analysis for
     dynamic-response problem in non-convex
     domain](https://jvejournals.com/article/15907), Luyun Chen, Leixin
@@ -1529,24 +1845,119 @@ on roman infrastructure.
 
 
 
-terms (wiki articles)
+========
 
-- pneumatology
-- eschatology
-- malthusian catastrophe
-- perichoresis
-- phenomonological definition of god
-- conceptions of god
-- process theology
-- process philosophy
-- pierre teilhard de chardin
-- existence of god
-- apologetics
-- christian existential apologetics
-- religious epistemology
-- christian apologetics
-- historiagraphy
-- historiagraphy of early christianity
-- presuppositional apologetics
-- ontic
-- ontologism
+### A quick non-theological apologetic argument
+
+what does it mean for atheism to triumph if all individual belief
+systems collectively end up being social white noise
+
+![Graph Theory pic]()
+
+so, consider each of those graphs an individual piece of information,
+composed of other pieces of information
+
+and also consider each piece of information a frequency
+
+now consider the social distribution of that information. when there
+are more instances of a specific structure of information, that
+information is louder -- i.e. it is "turnt up"
+
+so you can socially amplify information, but it is also possible to
+attenuate pieces of information
+
+if people decide how to structure their values, morals and according
+to their individual belief system (whether that is an individual
+atheism or a shared religion) then doesn't religion have value as
+effective social engineering?
+
+basically religion is a socially replicating structure of information
+(or a memetic program) that inculcates homogenous information
+structures into society.  now consider sociological systems in terms
+of game theory. what does spatial complexity mean for games? if a
+space is more complex, then it requires more computation to solve that
+game, if it is solvable at all
+
+when people's actions and beliefs are aligned, then social games are
+more predictable. as followers of a religion, they can advance their
+own group but also render the social games in society more predictable
+by seeing the world in terms of their own religion
+
+it's a framework of thought that simplifies life and helps followers
+avoid mistakes. and even if it cannot be connected to some basis in
+absolute truth (i.e. God) it still has value in that it's an
+information system that creates spectral harmony in society
+
+even if someone follows that argument, they are still left deciding
+whether or not one individual conceptualization of God is valid or
+corresponds to absolute truth. that's not my problem, although i do
+have an argument for that as well.
+
+furthermore, atheism to me is the "nadir" of belief systems.
+it's the most minimal belief system.
+
+there really is a void left in life that isn't necessarily filled by
+secular institutions or atheists. that is, religious institutions
+performed and still performs very critical functions in society. if
+religion were to suddenly disappear, these functions/roles/niches are
+not immediately available from other social institutions in society
+
+a great example is the role that mandatory church attendance filled in
+medieval europe. by forcing people to attend church weekly, this
+established a guaranteed weekly social flux of information. the
+function that church performed here was similar to the heartbeat
+network in VPN hardware or the social "heartbeat" of information being
+pushed around the local social environment.
+
+#### [Heartbeat Network](https://en.wikipedia.org/wiki/Heartbeat_network)
+
+if you were to rip that out of Medieval Europe and not replace it with
+anything, europe would have quickly become decentralized and would
+have fallen to the Middle East quickly. There was an eternal battle
+between Turkey and Eastern Europe, which people most often associate
+with Vlad the Impaler. If it were not for some culturally unifying
+belief system, Europe would have become subservient to middle eastern
+economic interests
+
+as for the whole "heartbeat network" analogy, basically church served
+as a weekly sociophysical health-check on the community. to encourage
+a rhythmic flux of information.
+
+but this is ONLY possible when you have socially distributed
+information which act to establish behavioral protocols for social
+interaction (i.e. holidays, traditions, weekly prayer, daily prayer,
+etc)  all of these must collectively add value to the
+community/society/followers. otherwise, some other religion or belief
+system fills that void because it's better adapted to providing value
+
+none of these arguments rely on the 'a priori' assumption that God is
+absolute truth.
+
+so you don't acknowledge the impact that belief and information have
+on the collective action of individuals in society?
+
+if information doesn't influence the actions of people, then i'm
+wrong. i'm not.  so socially distributed information does influence
+behavior, and now the question becomes: how does one design
+informational systems to optimally benefit either society or your
+religion's followers? isn't that social engineering?
+
+
+==========
+
+- the effect of death on early humans (in the era with early
+  architecture and earlier) with poor communicative ability mean that
+  the pain of close social loss that accompanied death was something
+  that was profoundly more difficult to communicate than it was in any
+  era after language became sophisticated.
+  - it would be similar to the pain experienced by a dog who loses its
+    owner to death and is clearly affected, but cannot convey their
+    pain to anyone close by, nor can they come to terms with why the
+    event occured. because in this period language constricts the
+    consensus of abstractions and information (encodings of reified
+    abstractions), people would likely have struggled over loss and
+    the effects of violence, until they learned to cope with the pain
+    by leveraging architecture to mark and notate sites of
+    significance (etching them into social memory) and inventing
+    mythological vehicles to help each other move forward (culturally
+    and socially) to cope with loss

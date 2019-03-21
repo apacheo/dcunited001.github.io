@@ -237,7 +237,6 @@ this person for being "try hard" and "not adulting good"
       color from our dreams, to render subjugated those who broke
       early while consuming the rest.
 
-
 ### Harness inherent computational potential by leveraging sociophysical networks
 
 - specific example: could organized gambling's potential to informally
@@ -2201,6 +2200,22 @@ information.
 
 ### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
+- what does the wave function's structure as a wave function itself
+  say about potentially entangled states in information?
+  - this question needs more clarification
+
+- rate-of-change over time (in the spectral theory of information),
+  implies *what* for an analogy of schrodinger's theorum to
+  information?
+  - in the quantum mechanics wave equation, if one transforms from
+    position-to-momentum with the fourier-transform (check precision),
+    what does this mean, given a spectral understanding of
+    information?
+  - and how do rates of change of these quantities (change in an
+    information-frequencies amplitude in time) correspond to
+    schrodinger's, which is like a differential equation for the wave
+    equation?
+
 - non-local behavior demonstrated when the state for a wikipedia page
   edit graphs undergoes a mode-switch (DeDeo Wikipedia: see end of
   video on "information processing & political order")
@@ -2274,7 +2289,7 @@ information.
 
 
 
-  whereas thesdynamics cause macroscopic changes that are that are
+  whereas these dynamics cause macroscopic changes that are that are
   ultimately ar these dynamics result in macroscopic changes to the
   system where specific schema of information are fairly arbitrary
 
@@ -2298,7 +2313,6 @@ information.
 
 #### What Fragile is to Anti-Fragile, the Concept of Disnormatizability is to Normitization
 
-
 - Disnormatization, the dissociation and disregulation of norms as it
   relates to a spectrally derived total measure of normatization, and
   the vectors with potential to denormalize contribute greatly to the
@@ -2308,12 +2322,11 @@ information.
     concept is convoluted by norms of mutual knowledge and beliefs
     about knowledge of .
 
-in what
-are discussed here as socioepistemic systems,
+in what are discussed here as socioepistemic systems,
 
 Disnormative: Oxford doesn't include it in their dictionary, but it is
-still a valid word in the english Language. not enough fancy
-post-graduate researchers have thought to use it. too many NPC's and
+still a valid word in the english Language. Not enough fancy
+post-graduate researchers have thought to use it. Too many NPC's and
 not enough people who think for themselves to understand that word
 yet.
 
@@ -2338,7 +2351,7 @@ So what is a #Disnormative component of a system? It's a component
 that destabilizes norms or beliefs about norms. Like the word
 #Perfracted -- referring a phenomenon in similar to refraction, but
 occurs system-wide and, in #ChaosTheory, is independent of time and
-space -- Disnormative is an example of a #Protologism. For now, it's a
+space -- Disnormative is an example of a protologism. For now, it's a
 #HapaxLegomenon -- a word only used once in an author's writings or,
 less precisely, a rarely used neologism. That's how words are born. An
 author who introduces protologisms that map to ideas which need
@@ -2392,6 +2405,30 @@ all cultural and interpersonal norms.
 
 #### Quantum Mechanics, Generalized. It Is Purely Informational.
 
+  - Consider society's inconsistent development of norms in reaction
+    to technology: here you can see this phenomenon of
+    disnormitization play out. Limit the context to UI/UX design in
+    social media: remember the outrage in society when Facebook
+    introduced it's first major UI/UX design changes? How does
+    society's decide, as individuals, how to collectively react to
+    technological changes when they impact user experience but occur
+    behind the scenes? e.g. as part of Newsfeed design, the
+    functionality of which significantly contributes or detracts from
+    the quality of a user's experience? Do they even understand the
+    algorithmic minutia? How do some users develop beliefs about
+    technological norms and normitizing beliefs when these changes are
+    invisible?
+    - as the rate of UI/UX changes and algorithmic increases does the
+      rate of norm development also change? Yes, but it does not pace
+      the rate of UI/UX change. How does the rate of diffusion of
+      norms into society change? The acceleration of comminication in
+      hyperconnected social media networks means norms diffuse faster
+      -- but is it enough? I posit that neither the individual's
+      development of norms, their adjustment to norms, nor their
+
+    Because the rate of systemic change in user experience rapidly
+    increases as new
+
 - Just like physical systems above minimal temperatures cease to
   permit detection of the strange probalistic distortion of quantum
   mechanics, so do the sociophysically disentangled behaviors of
@@ -2423,7 +2460,6 @@ all cultural and interpersonal norms.
       any Boltzmann Machine in a computer simulation. The constant
       arises from purely statistical notions of energy distributed
       across space with defined mechanics.
-
 
 #### Beliefs About Information Consensus Leads to Amplification of Beliefs
 
@@ -2491,6 +2527,7 @@ all cultural and interpersonal norms.
 
 #### Wu Xing
 
+- wu xing physics
 - signaling with Wu Xing (actual name of this?) in the Imperial Palace
   - there should be notes on this somewhere, but it's a perfect
     example (of one interpretation of what this postulate means)

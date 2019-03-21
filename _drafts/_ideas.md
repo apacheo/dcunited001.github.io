@@ -449,58 +449,6 @@ aesthetic qualities?
 
 ===============
 
-# dreams
-
-#### dream where i found a cat just outside my house that i thought was my cat from childhood (named roxanne)
-
-- the dream was fairly lucid in that it felt real, like i was making
-  real decisions with the full capacity of my mind, although i didn't
-  realize it was a dream.
-  - it was a dream i entered after meditating for a while
-- i was walking out of the house to go somewhere and found the cat. it
-  felt familiar, so i brought it into the house. i thought it was
-  Roxanne. my mom was talking to an old friend who was meeting her for
-  brunch or something.
-  - the cat seemed to want attention, but did not want me to see
-    something. the more kept playing with it and petting it, the more
-    obvious it became that something was wrong.
-  - the cat gradually started to morph from my persian cat to one with
-    shaven hair and finally changing color from soft black into a
-    tabby cat. it had a dark green and grey coat with with dark, thin
-    stripes.
-  - suddenly i realized it wasn't my cat, it was a stray. i finally
-    realized what i sensed it was hiding from me. it was missing it's
-    left front leg, but in it's place was the poorly healed untreated
-    remnants of a leg.
-    - i immediately wondered whether it had been hit by a car. and
-      began to realize i couldn't let it go. it hadn't wanted me to
-      sense what was wrong with it because it had the experience of
-      being rejected for it's injuries.
-    - i started crying in the dream and immediately woke up
-
-dream where this dog (a great dane) kept licking my face
-- kind of a silvery coated great dane
-- i'm not sure how i met the dog. i was in some building with open
-  space and open floors, like a dance studio, but in the back area
-- when i met the dog, she was with her owner, who was also a
-  photographer (very famous locally or something)
-  - the dog seemed to be one who had been raised somewhere like floyd
-    and wasn't accustomed to meeting people very often.
-  - it's personality seemed to indicate that she wasn't guarded and
-    never needed to be reprimanded for being a dog.
-    - the dog didn't seem to know what it meant to be a dog.
-- anyways, the dog saw that i was kinda down.
-  - it had something to do with the night before and being alone
-  - she immediately started licking my face, which i normally hate,
-    but i just didn't do anything.
-    - she kept doing it for a few minutes and the owner thought it was
-      hilarious... i have no idea it was a dream
-- the owner tried set us up for a photo, but in doing so, the dog
-  suddenly lost interest in licking my face which prompted our
-  interest in the first place.
-  - no matter what we did or how we tried to egg her on, she wouldn't
-    do it anymore after that.
-- kind of a wierd dream, but there was a point to it, i promise
 
 ===============
 

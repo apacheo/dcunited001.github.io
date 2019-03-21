@@ -11,6 +11,8 @@ permalink: /quotes/
 
 > Metacognition is a science as well as an art.
 
+> Emulation of ancient thought is penultimate metacognition.
+
 > That which is rarely found is always a greater treasure. The
 > greatest treasure is that which is never shown.
 
@@ -31,6 +33,9 @@ permalink: /quotes/
 
 > Every man is born as many men and dies not, but becomes every man.
 
+> There are many ways to live life and not all of them equally deserve
+> to cling to life.
+
 > I am powerless. All i have is thought. All i have is knowledge. All
 > I have is the will that drives me to never let my pain be forever
 > meaningless.
@@ -45,6 +50,8 @@ permalink: /quotes/
 > is the cataclysm that results from our greatest fall since time
 > immemorial.
 
+> One man's dumpster fire is another man's religion.
+
 > Those who expect the unexpected stand to profit from the unexpected.
 > The ignorant then become like leaves in a wind they cannot begin to
 > see. Knowledge is power; truth is formless and all-emcompassing;
@@ -53,9 +60,18 @@ permalink: /quotes/
 > Every system seemingly modern exists merely as facade, masking
 > countless strata of ancient facade.
 
+> Aspects of the subjective experience are not inherently worthless
+> ... unless they're coming from someone else.
+
 > Simple wants what simple gets.
 
 > The definition of insanity is to remain unconscious to one's
 > unconsciousness.
 
-> **Normal** *is* no longer what *normal* **was**.
+> **Normal** *is* no longer what *normal* **was**. (On Disnormatization)
+
+> Assumptions should break quickly. Belief should form slowly.
+
+> Control how people conceive reality, control the limits of how
+> people conceive reality and you control the collective dreams of
+> humanity.
